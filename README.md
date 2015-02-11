@@ -1,17 +1,17 @@
 # 项目收集
 
 ## 书籍
-+ [免费的计算机编程类中文书籍] (https://github.com/justjavac/free-programming-books-zh_CN)
+- [免费的计算机编程类中文书籍] (https://github.com/justjavac/free-programming-books-zh_CN)
 
 ## java
-### 设计模式
-+ [java设计模式] (https://github.com/iluwatar/java-design-patterns)
+- 设计模式
+    - [java设计模式] (https://github.com/iluwatar/java-design-patterns)
 
-### spring相关
-* [spring-framework] (https://github.com/spring-projects/spring-framework)
-* [springside] (https://github.com/springside/springside4)
-* [spring-mvc-showcase] (https://github.com/spring-projects/spring-mvc-showcase)
-* [spring-best-practices] (https://github.com/priyatam/spring-best-practices)
+- spring相关
+    - [spring-framework] (https://github.com/spring-projects/spring-framework)
+    - [springside] (https://github.com/springside/springside4)
+    - [spring-mvc-showcase] (https://github.com/spring-projects/spring-mvc-showcase)
+    - [spring-best-practices] (https://github.com/priyatam/spring-best-practices)
 
 ### 基础开发框架
 + [jeesite] (https://github.com/thinkgem/jeesite)
