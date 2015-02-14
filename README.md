@@ -54,6 +54,7 @@
 - [分布式数据库ID生成器 id-generator-server] (https://github.com/nyankosama/id-generator-server)
 - [Mybatis通用分页插件 Mybatis-PageHelper] (https://github.com/pagehelper/Mybatis-PageHelper)
 
-## 数据结构
+## 数据结构及算法
 
 - [大话数据结构] (https://github.com/clarkchen/data_structure)
+- [awesome-algorithms] (https://github.com/tayllan/awesome-algorithms)
