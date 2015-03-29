@@ -22,6 +22,7 @@
     - [jeesite] (https://github.com/thinkgem/jeesite)
     - [s2jh] (https://github.com/xautlx/s2jh)
     - [APDPlat] (https://github.com/thinkgem/jeesite)
+    - [structr] (https://github.com/structr/structr)
 
 - 分库分表
 
@@ -57,6 +58,7 @@
 - [RedisClient] (https://github.com/caoxinyu/RedisClient)
 - [分布式数据库ID生成器 id-generator-server] (https://github.com/nyankosama/id-generator-server)
 - [Mybatis通用分页插件 Mybatis-PageHelper] (https://github.com/pagehelper/Mybatis-PageHelper)
+- [dianping/cat] (https://github.com/dianping/cat)
 
 ## 数据结构及算法
 
