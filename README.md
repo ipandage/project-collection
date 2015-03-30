@@ -42,6 +42,7 @@
 - JavaScript
 
     - [JavaScript Style Guide] (https://github.com/airbnb/javascript)
+    - [Javascript代码验证工具 jshint] (https://github.com/jshint/jshint)
 
 - Jquery
 
