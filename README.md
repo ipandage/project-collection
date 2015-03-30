@@ -68,3 +68,6 @@
 
 - [大话数据结构] (https://github.com/clarkchen/data_structure)
 - [awesome-algorithms] (https://github.com/tayllan/awesome-algorithms)
+
+## 持续集成
+- [Jenkins ] (https://github.com/jenkinsci/jenkins)
