@@ -39,6 +39,9 @@
     - [JavaSecurity] (https://github.com/dschadow/JavaSecurity)
 
 ## 前端
+- JavaScript
+
+    - [JavaScript Style Guide] (https://github.com/airbnb/javascript)
 
 - Jquery
 
