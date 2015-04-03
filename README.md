@@ -23,6 +23,7 @@
     - [s2jh] (https://github.com/xautlx/s2jh)
     - [APDPlat] (https://github.com/thinkgem/jeesite)
     - [structr] (https://github.com/structr/structr)
+    - [A Sinatra inspired framework for java] (https://github.com/perwendel/spark)
 
 - 分库分表
 
