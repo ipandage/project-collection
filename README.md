@@ -70,6 +70,7 @@
 - [dianping/cat] (https://github.com/dianping/cat)
 - [Java诊断工具 greys-anatomy] (https://github.com/chengtongda/greys-anatomy)
 - [mysql数据库表设计文档生成工具] (http://git.oschina.net/loonhxl/MySqlDGTool)
+- [不用翻墙访问谷歌的方法] (https://github.com/hawx1993/accessing-Google)
 
 ## 数据结构及算法
 
