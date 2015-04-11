@@ -9,6 +9,7 @@
 - 设计模式
 
     - [java设计模式] (https://github.com/iluwatar/java-design-patterns)
+    - [图说设计模式] (https://github.com/me115/design_patterns)
 
 - spring相关
 
@@ -25,13 +26,34 @@
     - [structr] (https://github.com/structr/structr)
     - [A Sinatra inspired framework for java] (https://github.com/perwendel/spark)
 
+- 序列化
+    - [kryo] (https://github.com/EsotericSoftware/kryo)
+
+- RPC框架
+
+    - [Dubbo] (https://github.com/alibaba/dubbo)
+    - [58.com跨平台高性能高可用中间层服务框架] (https://github.com/58code/Gaea)
+    - [Hetty] (https://github.com/xishuixixia/Hetty)
+
+- 缓存
+
+    - [Redis HA] (https://github.com/warmbreeze/sharded-jedis-sentinel-pool)
+
+- 消息系统
+
+    - [kafka] (https://github.com/apache/kafka)
+    - [A tool for managing Apache Kafka] (https://github.com/yahoo/kafka-manager)
+    - [jafka] (https://github.com/adyliu/jafka)
+    - [RocketMQ] (https://github.com/alibaba/RocketMQ)
+
 - 分库分表
 
+    - [jdbc-shards] (https://github.com/wplatform/jdbc-shards)
     - [tb_tddl] (https://github.com/alibaba/tb_tddl)
     - [cobarclient] (https://github.com/alibaba/cobarclient)
     - [mybatis-shards] (https://github.com/makersoft/mybatis-shards)
     - [ibatis-sharding] (https://github.com/argan/ibatis-sharding)
-    - [Oceanus] (https://github.com/liqiulin/Oceanus)
+    - [58同城数据库中间件] (https://github.com/58code/Oceanus)
 
 - 安全
 
@@ -39,7 +61,27 @@
     - [shiro-example] (https://github.com/zhangkaitao/shiro-example)
     - [JavaSecurity] (https://github.com/dschadow/JavaSecurity)
 
+- 工作流
+
+    - [快速入门Activiti kft-activiti-demo] (https://github.com/henryyan/kft-activiti-demo)
+    - [snakerflow] (https://github.com/snakerflow/snakerflow)
+
+- 分布式跟踪系统
+
+    - [hydra] (https://github.com/odenny/hydra)
+
+- 负载均衡
+
+    - [云端负载均衡工具 Eureka] (https://github.com/Netflix/eureka)
+
+- 网络通讯
+
+    - [netty-socketio eg: 消息推送 etc.] (https://github.com/mrniko/netty-socketio)
+
 ## 前端
+
+- UI
+    - [Amaze UI] (https://github.com/allmobilize/amazeui)
 
 - Css
     - [CSS参考手册 css-handbook] (https://github.com/doyoe/css-handbook)
@@ -48,6 +90,7 @@
 
     - [JavaScript Style Guide] (https://github.com/airbnb/javascript)
     - [Javascript代码验证工具 jshint] (https://github.com/jshint/jshint)
+    - [javascript 的 12 个怪癖（quirks）] (https://github.com/justjavac/12-javascript-quirks)
 
 - Jquery
 
@@ -62,6 +105,9 @@
     - [Node.js 包教不包会] (https://github.com/alsotang/node-lessons)
     - [七天学会NodeJS] (http://nqdeng.github.io/7-days-nodejs/)
 
+- MVVM framework
+    - [avalon] (https://github.com/RubyLouvre/avalon)
+
 ## 工具
 
 - [RedisClient] (https://github.com/caoxinyu/RedisClient)
@@ -71,6 +117,9 @@
 - [Java诊断工具 greys-anatomy] (https://github.com/chengtongda/greys-anatomy)
 - [mysql数据库表设计文档生成工具] (http://git.oschina.net/loonhxl/MySqlDGTool)
 - [不用翻墙访问谷歌的方法] (https://github.com/hawx1993/accessing-Google)
+- [异步并行加载工具(依赖字节码技术)] (https://github.com/alibaba/asyncload)
+- [unirest-java (HTTP client library)] (https://github.com/Mashape/unirest-java)
+- [bugatti (运维自动化部署监控平台)] (https://github.com/Mashape/unirest-java)
 
 ## 数据结构及算法
 
@@ -78,4 +127,15 @@
 - [awesome-algorithms] (https://github.com/tayllan/awesome-algorithms)
 
 ## 持续集成
-- [Jenkins ] (https://github.com/jenkinsci/jenkins)
+- [Jenkins] (https://github.com/jenkinsci/jenkins)
+
+## Docker
+- [Docker 教程] (https://github.com/llitfkitfk/docker-tutorial-cn)
+
+## Nginx
+- [headers-more-nginx-module] (https://github.com/openresty/headers-more-nginx-module)
+
+## 其他
+- [微信公众号、企业号Java SDK] (https://github.com/chanjarster/weixin-java-tools)
+- [httl (JAVA模板引擎)] (https://github.com/httl/httl)
+
