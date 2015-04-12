@@ -92,6 +92,10 @@
 - 搜索
     - [-Spring Data Elasticsearch] (https://github.com/spring-projects/spring-data-elasticsearch)
 
+- 电商
+    - [B2CWeb (仿淘宝的B2C商城项目)] (https://github.com/mission008/B2CWeb)
+    - [jeeshop_springmvc] (https://github.com/kimmking/jeeshop_springmvc)
+
 ## 前端
 
 - UI
@@ -154,10 +158,6 @@
 - [headers-more-nginx-module] (https://github.com/openresty/headers-more-nginx-module)
 
 ## 其他
-
-- 电商
-    - [B2CWeb (仿淘宝的B2C商城项目)] (https://github.com/mission008/B2CWeb)
-    - [jeeshop_springmvc] (https://github.com/kimmking/jeeshop_springmvc)
 
 - [微信公众号、企业号Java SDK] (https://github.com/chanjarster/weixin-java-tools)
 - [httl (JAVA模板引擎)] (https://github.com/httl/httl)
