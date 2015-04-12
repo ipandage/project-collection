@@ -136,7 +136,7 @@
 
 ## 工具
 
-- [RedisClient] (https://github.com/caoxinyu/RedisClient)
+- [RedisClient (Java Redis Client GUI Tool)] (https://github.com/caoxinyu/RedisClient)
 - [分布式数据库ID生成器 id-generator-server] (https://github.com/nyankosama/id-generator-server)
 - [Mybatis通用分页插件 Mybatis-PageHelper] (https://github.com/pagehelper/Mybatis-PageHelper)
 - [dianping/cat (实时应用监控平台)] (https://github.com/dianping/cat)
