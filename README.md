@@ -18,6 +18,12 @@
     - [spring-mvc-showcase] (https://github.com/spring-projects/spring-mvc-showcase)
     - [spring-best-practices] (https://github.com/priyatam/spring-best-practices)
 
+- Mybatis
+    - [Mybatis-Spring] (https://github.com/abel533/Mybatis-Spring)
+
+- Netty
+    - [Netty 实战(精髓)] (https://github.com/waylau/essential-netty-in-action)
+
 - 基础开发框架
 
     - [jeesite] (https://github.com/thinkgem/jeesite)
@@ -45,6 +51,7 @@
     - [A tool for managing Apache Kafka] (https://github.com/yahoo/kafka-manager)
     - [jafka] (https://github.com/adyliu/jafka)
     - [RocketMQ] (https://github.com/alibaba/RocketMQ)
+    - [Aeron (高性能单播和多播消息传输)] (https://github.com/real-logic/Aeron)
 
 - 分库分表
 
@@ -78,6 +85,13 @@
 
     - [netty-socketio eg: 消息推送 etc.] (https://github.com/mrniko/netty-socketio)
 
+- 分词
+
+    - [Java分布式中文分词组件] (https://github.com/ysc/word)
+
+- 搜索
+    - [-Spring Data Elasticsearch] (https://github.com/spring-projects/spring-data-elasticsearch)
+
 ## 前端
 
 - UI
@@ -89,6 +103,7 @@
 - JavaScript
 
     - [JavaScript Style Guide] (https://github.com/airbnb/javascript)
+    - [JavaScript规范] (https://github.com/adamlu/javascript-style-guide)
     - [Javascript代码验证工具 jshint] (https://github.com/jshint/jshint)
     - [javascript 的 12 个怪癖（quirks）] (https://github.com/justjavac/12-javascript-quirks)
 
@@ -120,6 +135,9 @@
 - [异步并行加载工具(依赖字节码技术)] (https://github.com/alibaba/asyncload)
 - [unirest-java (HTTP client library)] (https://github.com/Mashape/unirest-java)
 - [bugatti (运维自动化部署监控平台)] (https://github.com/Mashape/unirest-java)
+- [zookeeper-explorer] (https://github.com/izerui/zookeeper-explorer)
+- [fastexcel (快速简单读取excel数据)] (https://github.com/izerui/zookeeper-explorer)
+
 
 ## 数据结构及算法
 
@@ -136,6 +154,11 @@
 - [headers-more-nginx-module] (https://github.com/openresty/headers-more-nginx-module)
 
 ## 其他
+
+- 电商
+    - [B2CWeb (仿淘宝的B2C商城项目)] (https://github.com/mission008/B2CWeb)
+    - [jeeshop_springmvc] (https://github.com/kimmking/jeeshop_springmvc)
+
 - [微信公众号、企业号Java SDK] (https://github.com/chanjarster/weixin-java-tools)
 - [httl (JAVA模板引擎)] (https://github.com/httl/httl)
 
