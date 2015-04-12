@@ -139,7 +139,7 @@
 - [RedisClient] (https://github.com/caoxinyu/RedisClient)
 - [分布式数据库ID生成器 id-generator-server] (https://github.com/nyankosama/id-generator-server)
 - [Mybatis通用分页插件 Mybatis-PageHelper] (https://github.com/pagehelper/Mybatis-PageHelper)
-- [dianping/cat] (https://github.com/dianping/cat)
+- [dianping/cat (实时应用监控平台)] (https://github.com/dianping/cat)
 - [Java诊断工具 greys-anatomy] (https://github.com/chengtongda/greys-anatomy)
 - [mysql数据库表设计文档生成工具] (http://git.oschina.net/loonhxl/MySqlDGTool)
 - [不用翻墙访问谷歌的方法] (https://github.com/hawx1993/accessing-Google)
