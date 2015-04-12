@@ -22,6 +22,7 @@
     - [Mybatis-Spring] (https://github.com/abel533/Mybatis-Spring)
 
 - Netty
+    - [netty-learning] (https://github.com/code4craft/netty-learning)
     - [Netty 实战(精髓)] (https://github.com/waylau/essential-netty-in-action)
 
 - 基础开发框架
@@ -40,6 +41,7 @@
     - [Dubbo] (https://github.com/alibaba/dubbo)
     - [58.com跨平台高性能高可用中间层服务框架] (https://github.com/58code/Gaea)
     - [Hetty] (https://github.com/xishuixixia/Hetty)
+    - [grpc-java] (https://github.com/grpc/grpc-java)
 
 - 缓存
 
@@ -61,6 +63,7 @@
     - [mybatis-shards] (https://github.com/makersoft/mybatis-shards)
     - [ibatis-sharding] (https://github.com/argan/ibatis-sharding)
     - [58同城数据库中间件] (https://github.com/58code/Oceanus)
+    - [Lealone (最新潮的分布式数据库)] (https://github.com/codefollower/Lealone)
 
 - 安全
 
@@ -96,6 +99,9 @@
     - [B2CWeb (仿淘宝的B2C商城项目)] (https://github.com/mission008/B2CWeb)
     - [jeeshop_springmvc] (https://github.com/kimmking/jeeshop_springmvc)
 
+- 内容管理
+    - [mushroom (动态内容管理系统)] (https://github.com/mission008/B2CWeb)
+
 ## 前端
 
 - UI
@@ -110,6 +116,7 @@
     - [JavaScript规范] (https://github.com/adamlu/javascript-style-guide)
     - [Javascript代码验证工具 jshint] (https://github.com/jshint/jshint)
     - [javascript 的 12 个怪癖（quirks）] (https://github.com/justjavac/12-javascript-quirks)
+    - [JavaScript Patterns 中译本] (https://github.com/TooBug/javascript.patterns)
 
 - Jquery
 
@@ -141,6 +148,8 @@
 - [bugatti (运维自动化部署监控平台)] (https://github.com/Mashape/unirest-java)
 - [zookeeper-explorer] (https://github.com/izerui/zookeeper-explorer)
 - [fastexcel (快速简单读取excel数据)] (https://github.com/izerui/zookeeper-explorer)
+- [ResumeSample (程序员简历模板系列)] (https://github.com/geekcompany/ResumeSample)
+- [http-api-design] (https://github.com/interagent/http-api-design)
 
 
 ## 数据结构及算法
@@ -155,10 +164,24 @@
 - [Docker 教程] (https://github.com/llitfkitfk/docker-tutorial-cn)
 
 ## Nginx
+- [nginx-book (Nginx开发从入门到精通)] (https://github.com/taobao/nginx-book)
+- [lua-nginx-module] (https://github.com/openresty/lua-nginx-module)
+- [ngx_lua_waf (基于lua-nginx-module(openresty)的web应用防火墙)] (https://github.com/loveshell/ngx_lua_waf)
 - [headers-more-nginx-module] (https://github.com/openresty/headers-more-nginx-module)
+
+## Python
+- [show-me-the-code (Python 练习册)] (https://github.com/Yixiaohan/show-me-the-code)
+
+## Go
+- [the-way-to-go_ZH_CN (Go入门指南)] (https://github.com/Unknwon/the-way-to-go_ZH_CN)
+- [go-fundamental-programming (Go编程基础)] (https://github.com/Unknwon/go-fundamental-programming)
+
+## 移动
+- [ServiceFramework (Java MVC 框架，专为 移动应用后端量身定做)] (https://github.com/allwefantasy/ServiceFramework)
 
 ## 其他
 
 - [微信公众号、企业号Java SDK] (https://github.com/chanjarster/weixin-java-tools)
 - [httl (JAVA模板引擎)] (https://github.com/httl/httl)
+
 
