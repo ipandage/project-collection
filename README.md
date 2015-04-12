@@ -151,7 +151,6 @@
 - [ResumeSample (程序员简历模板系列)] (https://github.com/geekcompany/ResumeSample)
 - [http-api-design] (https://github.com/interagent/http-api-design)
 
-
 ## 数据结构及算法
 
 - [大话数据结构] (https://github.com/clarkchen/data_structure)
