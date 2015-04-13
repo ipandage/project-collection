@@ -46,6 +46,7 @@
 - 缓存
 
     - [Redis HA] (https://github.com/warmbreeze/sharded-jedis-sentinel-pool)
+    - [disgear (distributed cache based on redis ,support sharding,HA)] (https://github.com/yangbutao/disgear)
 
 - 消息系统
 
