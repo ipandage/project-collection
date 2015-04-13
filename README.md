@@ -54,6 +54,7 @@
     - [jafka] (https://github.com/adyliu/jafka)
     - [RocketMQ] (https://github.com/alibaba/RocketMQ)
     - [Aeron (高性能单播和多播消息传输)] (https://github.com/real-logic/Aeron)
+    - [metaq] (https://github.com/walletma/metaq)
 
 - 分库分表
 
@@ -79,6 +80,7 @@
 - 分布式跟踪系统
 
     - [hydra] (https://github.com/odenny/hydra)
+    - [zipkin] (https://github.com/twitter/zipkin)
 
 - 负载均衡
 
