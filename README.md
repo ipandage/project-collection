@@ -35,6 +35,7 @@
 
 - 序列化
     - [kryo] (https://github.com/EsotericSoftware/kryo)
+    - [glowworm] (https://github.com/bigbully/glowworm)
 
 - RPC框架
 
