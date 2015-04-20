@@ -138,6 +138,9 @@
 - MVVM framework
     - [avalon] (https://github.com/RubyLouvre/avalon)
 
+- 图表
+  - [highcharts] (https://github.com/highslide-software/highcharts.com)
+
 ## 工具
 
 - [RedisClient (Java Redis Client GUI Tool)] (https://github.com/caoxinyu/RedisClient)
