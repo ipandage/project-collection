@@ -170,6 +170,7 @@
 - [Docker 教程] (https://github.com/llitfkitfk/docker-tutorial-cn)
 
 ## Nginx
+- [nginx-tutorials] (https://github.com/openresty/nginx-tutorials)
 - [nginx-book (Nginx开发从入门到精通)] (https://github.com/taobao/nginx-book)
 - [lua-nginx-module] (https://github.com/openresty/lua-nginx-module)
 - [ngx_lua_waf (基于lua-nginx-module(openresty)的web应用防火墙)] (https://github.com/loveshell/ngx_lua_waf)
