@@ -106,6 +106,9 @@
 - 内容管理
     - [mushroom (动态内容管理系统)] (https://github.com/mission008/B2CWeb)
 
+- 配置管理
+    - [disconf (分布式配置管理平台)] (https://github.com/knightliao/disconf)
+
 ## 前端
 
 - UI
@@ -191,5 +194,3 @@
 - [微信公众号、企业号Java SDK] (https://github.com/chanjarster/weixin-java-tools)
 - [httl (JAVA模板引擎)] (https://github.com/httl/httl)
 - [spatial4j (地理空间类库)] (https://github.com/spatial4j/spatial4j)
-
-111
