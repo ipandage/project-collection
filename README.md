@@ -107,6 +107,7 @@
     - [mushroom (动态内容管理系统)] (https://github.com/mission008/B2CWeb)
 
 - 配置管理
+    - [super-diamond] (https://github.com/melin/super-diamond)
     - [disconf (分布式配置管理平台)] (https://github.com/knightliao/disconf)
 
 ## 前端
