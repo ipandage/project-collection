@@ -172,6 +172,9 @@
 ## Docker
 - [Docker 教程] (https://github.com/llitfkitfk/docker-tutorial-cn)
 
+## 大数据
+- [presto (大数据查询引擎)] (https://github.com/facebook/presto)
+
 ## Nginx
 - [nginx-tutorials] (https://github.com/openresty/nginx-tutorials)
 - [nginx-book (Nginx开发从入门到精通)] (https://github.com/taobao/nginx-book)
