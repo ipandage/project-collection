@@ -143,6 +143,7 @@
 
 - 图表
   - [highcharts] (https://github.com/highslide-software/highcharts.com)
+  - [echarts (图形渲染，数据可视化)] (https://github.com/ecomfe/echarts)
 
 ## 工具
 
