@@ -139,10 +139,13 @@
     - [七天学会NodeJS] (http://nqdeng.github.io/7-days-nodejs/)
 
 - MVVM framework
+
     - [avalon] (https://github.com/RubyLouvre/avalon)
 
 - 图表
+
   - [highcharts] (https://github.com/highslide-software/highcharts.com)
+  - [echarts (图形渲染，数据可视化)] (https://github.com/ecomfe/echarts)
 
 ## 工具
 
@@ -167,12 +170,19 @@
 - [awesome-algorithms] (https://github.com/tayllan/awesome-algorithms)
 
 ## 持续集成
+
 - [Jenkins] (https://github.com/jenkinsci/jenkins)
 
 ## Docker
+
 - [Docker 教程] (https://github.com/llitfkitfk/docker-tutorial-cn)
 
+## 大数据
+
+- [presto (大数据查询引擎)] (https://github.com/facebook/presto)
+
 ## Nginx
+
 - [nginx-tutorials] (https://github.com/openresty/nginx-tutorials)
 - [nginx-book (Nginx开发从入门到精通)] (https://github.com/taobao/nginx-book)
 - [lua-nginx-module] (https://github.com/openresty/lua-nginx-module)
@@ -180,13 +190,16 @@
 - [headers-more-nginx-module] (https://github.com/openresty/headers-more-nginx-module)
 
 ## Python
+
 - [show-me-the-code (Python 练习册)] (https://github.com/Yixiaohan/show-me-the-code)
 
 ## Go
+
 - [the-way-to-go_ZH_CN (Go入门指南)] (https://github.com/Unknwon/the-way-to-go_ZH_CN)
 - [go-fundamental-programming (Go编程基础)] (https://github.com/Unknwon/go-fundamental-programming)
 
 ## 移动
+
 - [ServiceFramework (Java MVC 框架，专为 移动应用后端量身定做)] (https://github.com/allwefantasy/ServiceFramework)
 
 ## 其他
@@ -194,5 +207,4 @@
 - [微信公众号、企业号Java SDK] (https://github.com/chanjarster/weixin-java-tools)
 - [httl (JAVA模板引擎)] (https://github.com/httl/httl)
 - [spatial4j (地理空间类库)] (https://github.com/spatial4j/spatial4j)
-
-
+- [keywhiz (隐私管理)] (https://github.com/square/keywhiz)
