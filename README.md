@@ -114,7 +114,7 @@
 
 - UI
     - [Amaze UI] (https://github.com/allmobilize/amazeui)
-    - [Metronic (响应式后台管理模板)] (http://keenthemes.com)
+    - [Metronic (响应式后台管理模板)] (https://github.com/jia58960/metronic)
     - [Bootstrap-ACE] (https://github.com/Vonwey/Bootstrap-ACE)
 
 - Css
