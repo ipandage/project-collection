@@ -129,6 +129,7 @@
 - Jquery
 
     - [BlockUI] (https://github.com/malsup/blockui)
+    - [noty (jquery 消息插件)] (https://github.com/needim/noty)
 
 - Bootstrap
 
