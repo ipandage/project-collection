@@ -201,6 +201,10 @@
 
 - [presto (大数据查询引擎)] (https://github.com/facebook/presto)
 
+## 实时计算
+
+- [gearpump (基于Akka的新一代流处理引擎)] (https://github.com/intel-hadoop/gearpump)
+
 ## Nginx
 
 - [nginx-tutorials] (https://github.com/openresty/nginx-tutorials)
