@@ -1,5 +1,8 @@
 # 项目收集
 
+## awesomes
+- [awesome-awesomes] (https://github.com/fleveque/awesome-awesomes)
+
 ## 书籍
 
 - [免费的计算机编程类中文书籍] (https://github.com/justjavac/free-programming-books-zh_CN)
@@ -43,6 +46,7 @@
     - [58.com跨平台高性能高可用中间层服务框架] (https://github.com/58code/Gaea)
     - [Hetty] (https://github.com/xishuixixia/Hetty)
     - [grpc-java] (https://github.com/grpc/grpc-java)
+    - [ob1k] (https://github.com/outbrain/ob1k)
 
 - 缓存
 
@@ -147,6 +151,9 @@
     - [Node.js 包教不包会] (https://github.com/alsotang/node-lessons)
     - [七天学会NodeJS] (http://nqdeng.github.io/7-days-nodejs/)
 
+- html5
+    - [agile (HTML5移动应用前端框架)] (https://github.com/exmobi/agile)
+
 - MVVM framework
 
     - [avalon] (https://github.com/RubyLouvre/avalon)
@@ -201,6 +208,7 @@
 ## Python
 
 - [show-me-the-code (Python 练习册)] (https://github.com/Yixiaohan/show-me-the-code)
+- [codeparkshare (零基础学习Python、Python入门)] (https://github.com/Yixiaohan/show-me-the-code)
 
 ## Go
 
