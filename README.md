@@ -35,6 +35,7 @@
     - [APDPlat] (https://github.com/thinkgem/jeesite)
     - [structr] (https://github.com/structr/structr)
     - [A Sinatra inspired framework for java] (https://github.com/perwendel/spark)
+    - [cl-privilege (通用权限管理系统)] (https://github.com/pumadong/cl-privilege)
 
 - 序列化
     - [kryo] (https://github.com/EsotericSoftware/kryo)
@@ -42,11 +43,16 @@
 
 - RPC框架
 
+    - [xultimate-remoting (提供Java中的一些分布式远程调用的ShowCase)] (https://github.com/daniellitoc/xultimate-remoting)
+    - [rpc4j (RPC入门学习示例)] (https://github.com/zoopaper/rpc4j)
     - [Dubbo] (https://github.com/alibaba/dubbo)
     - [58.com跨平台高性能高可用中间层服务框架] (https://github.com/58code/Gaea)
     - [Hetty] (https://github.com/xishuixixia/Hetty)
     - [grpc-java] (https://github.com/grpc/grpc-java)
     - [ob1k] (https://github.com/outbrain/ob1k)
+
+- 并发框架
+    - [disruptor] (https://github.com/LMAX-Exchange/disruptor)
 
 - 缓存
 
@@ -58,7 +64,7 @@
     - [kafka] (https://github.com/apache/kafka)
     - [A tool for managing Apache Kafka] (https://github.com/yahoo/kafka-manager)
     - [jafka] (https://github.com/adyliu/jafka)
-    - [RocketMQ] (https://github.com/alibaba/RocketMQ)
+    - [RocketMQ (Alibaba's MQ)] (https://github.com/alibaba/RocketMQ)
     - [Aeron (高性能单播和多播消息传输)] (https://github.com/real-logic/Aeron)
     - [metaq] (https://github.com/walletma/metaq)
 
@@ -71,6 +77,8 @@
     - [ibatis-sharding] (https://github.com/argan/ibatis-sharding)
     - [58同城数据库中间件] (https://github.com/58code/Oceanus)
     - [Lealone (最新潮的分布式数据库)] (https://github.com/codefollower/Lealone)
+    - [uncode-dal-all (基于mybatis、spring jdbc、hibernate的通用数据该问层)] (https://github.com/uncodecn/uncode-dal-all)
+    - [TribeDB] (https://github.com/yangjiePro/TribeDB)
 
 - 安全
 
@@ -113,6 +121,10 @@
 - 配置管理
     - [super-diamond] (https://github.com/melin/super-diamond)
     - [disconf (分布式配置管理平台)] (https://github.com/knightliao/disconf)
+
+- 作业调度
+    - [chronos] (https://github.com/mesos/chronos)
+    - [DISchedule (对TBSchedule分布式任务调度进行了简单改造)] (https://github.com/smatiger/DISchedule)
 
 ## 前端
 
@@ -184,6 +196,8 @@
 - [fastexcel (快速简单读取excel数据)] (https://github.com/izerui/zookeeper-explorer)
 - [ResumeSample (程序员简历模板系列)] (https://github.com/geekcompany/ResumeSample)
 - [http-api-design] (https://github.com/interagent/http-api-design)
+- [exhibitor (zookeeper 监控工具)] (https://github.com/Netflix/exhibitor)
+- [hbase-gui-admin] (https://github.com/bit-ware/HBaseXplorer)
 
 ## 数据结构及算法
 
@@ -201,9 +215,12 @@
 ## 大数据
 
 - [presto (大数据查询引擎)] (https://github.com/facebook/presto)
+- [mdrill (千亿数据即席分析)] (https://github.com/alibaba/mdrill)
+- [higo (海狗-多维在线分析系统)] (https://github.com/muyannian/higo)
 
 ## 实时计算
 
+- [jstorm] (https://github.com/alibaba/jstorm)
 - [gearpump (基于Akka的新一代流处理引擎)] (https://github.com/intel-hadoop/gearpump)
 
 ## Nginx
