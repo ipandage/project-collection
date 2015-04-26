@@ -1,5 +1,8 @@
 # 项目收集
 
+## awesomes
+- [awesome-awesomes] (https://github.com/fleveque/awesome-awesomes)
+
 ## 书籍
 
 - [免费的计算机编程类中文书籍] (https://github.com/justjavac/free-programming-books-zh_CN)
@@ -43,6 +46,7 @@
     - [58.com跨平台高性能高可用中间层服务框架] (https://github.com/58code/Gaea)
     - [Hetty] (https://github.com/xishuixixia/Hetty)
     - [grpc-java] (https://github.com/grpc/grpc-java)
+    - [ob1k] (https://github.com/outbrain/ob1k)
 
 - 缓存
 
@@ -107,12 +111,18 @@
     - [mushroom (动态内容管理系统)] (https://github.com/mission008/B2CWeb)
 
 - 配置管理
+    - [super-diamond] (https://github.com/melin/super-diamond)
     - [disconf (分布式配置管理平台)] (https://github.com/knightliao/disconf)
 
 ## 前端
 
+- 实例
+    - [天猫前端] (https://github.com/tmallfe/tmallfe.github.io)
+
 - UI
     - [Amaze UI] (https://github.com/allmobilize/amazeui)
+    - [Metronic (响应式后台管理模板)] (https://github.com/jia58960/metronic)
+    - [Bootstrap-ACE] (https://github.com/Vonwey/Bootstrap-ACE)
 
 - Css
     - [CSS参考手册 css-handbook] (https://github.com/doyoe/css-handbook)
@@ -128,6 +138,9 @@
 - Jquery
 
     - [BlockUI] (https://github.com/malsup/blockui)
+    - [noty (jquery 消息插件)] (https://github.com/needim/noty)
+    - [bootbox] (https://github.com/makeusabrew/bootbox)
+    - [jqGrid] (https://github.com/tonytomov/jqGrid)
 
 - Bootstrap
 
@@ -138,9 +151,16 @@
     - [Node.js 包教不包会] (https://github.com/alsotang/node-lessons)
     - [七天学会NodeJS] (http://nqdeng.github.io/7-days-nodejs/)
 
+- html5
+    - [agile (HTML5移动应用前端框架)] (https://github.com/exmobi/agile)
+
 - MVVM framework
 
     - [avalon] (https://github.com/RubyLouvre/avalon)
+
+- 图片
+
+    - [flat-color-icons] (https://github.com/icons8/flat-color-icons)
 
 - 图表
 
@@ -181,6 +201,10 @@
 
 - [presto (大数据查询引擎)] (https://github.com/facebook/presto)
 
+## 实时计算
+
+- [gearpump (基于Akka的新一代流处理引擎)] (https://github.com/intel-hadoop/gearpump)
+
 ## Nginx
 
 - [nginx-tutorials] (https://github.com/openresty/nginx-tutorials)
@@ -192,6 +216,7 @@
 ## Python
 
 - [show-me-the-code (Python 练习册)] (https://github.com/Yixiaohan/show-me-the-code)
+- [codeparkshare (零基础学习Python、Python入门)] (https://github.com/Yixiaohan/show-me-the-code)
 
 ## Go
 
