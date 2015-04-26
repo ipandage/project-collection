@@ -27,6 +27,7 @@
 - Netty
     - [netty-learning] (https://github.com/code4craft/netty-learning)
     - [Netty 实战(精髓)] (https://github.com/waylau/essential-netty-in-action)
+    - [netty-in-action] (https://github.com/normanmaurer/netty-in-action)
 
 - 基础开发框架
 
@@ -107,6 +108,7 @@
 - 分词
 
     - [Java分布式中文分词组件] (https://github.com/ysc/word)
+    - [ansj_seg (ansj分词.ict的真正java实现)] (https://github.com/NLPchina/ansj_seg)
 
 - 搜索
     - [-Spring Data Elasticsearch] (https://github.com/spring-projects/spring-data-elasticsearch)
@@ -220,8 +222,14 @@
 
 ## 实时计算
 
+- [storm-guides (Storm使用指南)] (https://github.com/huge-data/storm-guides)
 - [jstorm] (https://github.com/alibaba/jstorm)
 - [gearpump (基于Akka的新一代流处理引擎)] (https://github.com/intel-hadoop/gearpump)
+
+## 机器学习
+
+- [datumbox-framework] (https://github.com/datumbox/datumbox-framework)
+- [ml-ease (机器学习工具包)] (https://github.com/datumbox/datumbox-framework)
 
 ## Nginx
 
