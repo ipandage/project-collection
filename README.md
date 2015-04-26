@@ -179,7 +179,7 @@
 - [不用翻墙访问谷歌的方法] (https://github.com/hawx1993/accessing-Google)
 - [异步并行加载工具(依赖字节码技术)] (https://github.com/alibaba/asyncload)
 - [unirest-java (HTTP client library)] (https://github.com/Mashape/unirest-java)
-- [bugatti (运维自动化部署监控平台)] (https://github.com/Mashape/unirest-java)
+- [bugatti (运维自动化部署监控平台)] (https://github.com/ofpay/bugatti)
 - [zookeeper-explorer] (https://github.com/izerui/zookeeper-explorer)
 - [fastexcel (快速简单读取excel数据)] (https://github.com/izerui/zookeeper-explorer)
 - [ResumeSample (程序员简历模板系列)] (https://github.com/geekcompany/ResumeSample)
