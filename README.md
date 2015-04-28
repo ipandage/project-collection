@@ -221,6 +221,7 @@
 - [hbase-gui-admin] (https://github.com/bit-ware/HBaseXplorer)
 - [swagger (RESTFUL接口的文档在线自动生成)] (https://github.com/swagger-api/swagger-spec)
 - [yod-mock (数据生成工具)] (https://github.com/qiu8310/yod-mock)
+- [JsonPath] (https://github.com/jayway/JsonPath)
 
 ## 数据结构及算法
 
