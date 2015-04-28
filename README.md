@@ -1,6 +1,7 @@
 # 项目收集
 
 ## awesomes
+
 - [awesome-awesomes] (https://github.com/fleveque/awesome-awesomes)
 
 ## 书籍
@@ -22,9 +23,11 @@
     - [spring-best-practices] (https://github.com/priyatam/spring-best-practices)
 
 - Mybatis
+
     - [Mybatis-Spring] (https://github.com/abel533/Mybatis-Spring)
 
 - Netty
+
     - [netty-learning] (https://github.com/code4craft/netty-learning)
     - [Netty 实战(精髓)] (https://github.com/waylau/essential-netty-in-action)
     - [netty-in-action] (https://github.com/normanmaurer/netty-in-action)
@@ -39,10 +42,12 @@
     - [cl-privilege (通用权限管理系统)] (https://github.com/pumadong/cl-privilege)
 
 - 序列化
+
     - [kryo] (https://github.com/EsotericSoftware/kryo)
     - [glowworm] (https://github.com/bigbully/glowworm)
 
 - 消息推送
+
     - [apns4j] (https://github.com/teaey/apns4j)
 
 - RPC框架
@@ -56,6 +61,7 @@
     - [ob1k] (https://github.com/outbrain/ob1k)
 
 - 并发框架
+
     - [disruptor] (https://github.com/LMAX-Exchange/disruptor)
 
 - 缓存
@@ -114,34 +120,42 @@
     - [ansj_seg (ansj分词.ict的真正java实现)] (https://github.com/NLPchina/ansj_seg)
 
 - 搜索
+
     - [-Spring Data Elasticsearch] (https://github.com/spring-projects/spring-data-elasticsearch)
 
 - 电商
+
     - [B2CWeb (仿淘宝的B2C商城项目)] (https://github.com/mission008/B2CWeb)
     - [jeeshop_springmvc] (https://github.com/kimmking/jeeshop_springmvc)
 
 - 内容管理
+
     - [mushroom (动态内容管理系统)] (https://github.com/mission008/B2CWeb)
 
 - 配置管理
+
     - [super-diamond] (https://github.com/melin/super-diamond)
     - [disconf (分布式配置管理平台)] (https://github.com/knightliao/disconf)
 
 - 作业调度
+
     - [chronos] (https://github.com/mesos/chronos)
     - [DISchedule (对TBSchedule分布式任务调度进行了简单改造)] (https://github.com/smatiger/DISchedule)
 
 ## 前端
 
 - 实例
+
     - [天猫前端] (https://github.com/tmallfe/tmallfe.github.io)
 
 - UI
+
     - [Amaze UI] (https://github.com/allmobilize/amazeui)
     - [Metronic (响应式后台管理模板)] (https://github.com/jia58960/metronic)
     - [Bootstrap-ACE] (https://github.com/Vonwey/Bootstrap-ACE)
 
 - Css
+
     - [CSS参考手册 css-handbook] (https://github.com/doyoe/css-handbook)
 
 - JavaScript
@@ -170,6 +184,7 @@
     - [七天学会NodeJS] (http://nqdeng.github.io/7-days-nodejs/)
 
 - html5
+
     - [agile (HTML5移动应用前端框架)] (https://github.com/exmobi/agile)
 
 - MVVM framework
