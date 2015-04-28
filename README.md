@@ -3,6 +3,7 @@
 ## awesomes
 
 - [awesome-awesomes] (https://github.com/fleveque/awesome-awesomes)
+- [learn-with-open-source (借助开源项目，学习软件开发)] (https://github.com/zhuangbiaowei/learn-with-open-source)
 
 ## 书籍
 
@@ -14,6 +15,9 @@
 
     - [java设计模式] (https://github.com/iluwatar/java-design-patterns)
     - [图说设计模式] (https://github.com/me115/design_patterns)
+
+- JVM
+    - [GCViewer] (https://github.com/chewiebug/GCViewer)
 
 - spring相关
 
@@ -59,6 +63,7 @@
     - [Hetty] (https://github.com/xishuixixia/Hetty)
     - [grpc-java] (https://github.com/grpc/grpc-java)
     - [ob1k] (https://github.com/outbrain/ob1k)
+    - [pigeon1] (https://github.com/dianping/pigeon1)
 
 - 并发框架
 
@@ -222,6 +227,9 @@
 - [swagger (RESTFUL接口的文档在线自动生成)] (https://github.com/swagger-api/swagger-spec)
 - [yod-mock (数据生成工具)] (https://github.com/qiu8310/yod-mock)
 - [JsonPath] (https://github.com/jayway/JsonPath)
+- [TProfiler (性能分析工具)] (https://github.com/alibaba/TProfiler)
+- [restcommander (快速并行异步的HTTP/REST/SOAP客户端即服务)] (https://github.com/eBay/restcommander)
+- [hawtio (基于JVM 的应用监控系统)] (https://github.com/hawtio/hawtio)
 
 ## 数据结构及算法
 
