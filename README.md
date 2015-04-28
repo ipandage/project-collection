@@ -42,6 +42,9 @@
     - [kryo] (https://github.com/EsotericSoftware/kryo)
     - [glowworm] (https://github.com/bigbully/glowworm)
 
+- 消息推送
+    - [apns4j] (https://github.com/teaey/apns4j)
+
 - RPC框架
 
     - [xultimate-remoting (提供Java中的一些分布式远程调用的ShowCase)] (https://github.com/daniellitoc/xultimate-remoting)
@@ -198,8 +201,11 @@
 - [fastexcel (快速简单读取excel数据)] (https://github.com/izerui/zookeeper-explorer)
 - [ResumeSample (程序员简历模板系列)] (https://github.com/geekcompany/ResumeSample)
 - [http-api-design] (https://github.com/interagent/http-api-design)
+- [rest-api] (https://github.com/arccode/rest-api)
 - [exhibitor (zookeeper 监控工具)] (https://github.com/Netflix/exhibitor)
 - [hbase-gui-admin] (https://github.com/bit-ware/HBaseXplorer)
+- [swagger (RESTFUL接口的文档在线自动生成)] (https://github.com/swagger-api/swagger-spec)
+- [yod-mock (数据生成工具)] (https://github.com/qiu8310/yod-mock)
 
 ## 数据结构及算法
 
@@ -260,3 +266,4 @@
 - [httl (JAVA模板引擎)] (https://github.com/httl/httl)
 - [spatial4j (地理空间类库)] (https://github.com/spatial4j/spatial4j)
 - [keywhiz (隐私管理)] (https://github.com/square/keywhiz)
+- [Qix (Node.Js、Golang、Machine Learning、PostgreSQL、Deep Learning)] (https://github.com/ty4z2008/Qix)
