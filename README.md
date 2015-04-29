@@ -100,11 +100,13 @@
     - [shiro] (https://github.com/apache/shiro)
     - [shiro-example] (https://github.com/zhangkaitao/shiro-example)
     - [JavaSecurity] (https://github.com/dschadow/JavaSecurity)
+    - [Douban-Java-SDK-OAuth2] (https://github.com/UglyTroLL/Douban-Java-SDK-OAuth2)
 
 - 工作流
 
     - [快速入门Activiti kft-activiti-demo] (https://github.com/henryyan/kft-activiti-demo)
     - [snakerflow] (https://github.com/snakerflow/snakerflow)
+    - [fixflow] (https://github.com/fixteam/fixflow)
 
 - 分布式跟踪系统
 
@@ -126,7 +128,8 @@
 
 - 搜索
 
-    - [-Spring Data Elasticsearch] (https://github.com/spring-projects/spring-data-elasticsearch)
+    - [Spring Data Elasticsearch] (https://github.com/spring-projects/spring-data-elasticsearch)
+    - [lucene-solr] (https://github.com/apache/lucene-solr)
 
 - 电商
 
@@ -146,6 +149,15 @@
 
     - [chronos] (https://github.com/mesos/chronos)
     - [DISchedule (对TBSchedule分布式任务调度进行了简单改造)] (https://github.com/smatiger/DISchedule)
+
+- 规则引擎
+
+    - [drools] (https://github.com/droolsjbpm/drools)
+
+- 网络爬虫
+
+    - [webmagic] (https://github.com/code4craft/webmagic)
+    - [WebCollector] (https://github.com/CrawlScript/WebCollector)
 
 ## 前端
 
@@ -210,13 +222,11 @@
 - [RedisClient (Java Redis Client GUI Tool)] (https://github.com/caoxinyu/RedisClient)
 - [分布式数据库ID生成器 id-generator-server] (https://github.com/nyankosama/id-generator-server)
 - [Mybatis通用分页插件 Mybatis-PageHelper] (https://github.com/pagehelper/Mybatis-PageHelper)
-- [dianping/cat (实时应用监控平台)] (https://github.com/dianping/cat)
 - [Java诊断工具 greys-anatomy] (https://github.com/chengtongda/greys-anatomy)
 - [mysql数据库表设计文档生成工具] (http://git.oschina.net/loonhxl/MySqlDGTool)
 - [不用翻墙访问谷歌的方法] (https://github.com/hawx1993/accessing-Google)
 - [异步并行加载工具(依赖字节码技术)] (https://github.com/alibaba/asyncload)
 - [unirest-java (HTTP client library)] (https://github.com/Mashape/unirest-java)
-- [bugatti (运维自动化部署监控平台)] (https://github.com/ofpay/bugatti)
 - [zookeeper-explorer] (https://github.com/izerui/zookeeper-explorer)
 - [fastexcel (快速简单读取excel数据)] (https://github.com/izerui/zookeeper-explorer)
 - [ResumeSample (程序员简历模板系列)] (https://github.com/geekcompany/ResumeSample)
@@ -226,10 +236,28 @@
 - [exhibitor (zookeeper 监控工具)] (https://github.com/Netflix/exhibitor)
 - [hbase-gui-admin] (https://github.com/bit-ware/HBaseXplorer)
 - [swagger (RESTFUL接口的文档在线自动生成)] (https://github.com/swagger-api/swagger-spec)
-- [yod-mock (数据生成工具)] (https://github.com/qiu8310/yod-mock)
 - [JsonPath] (https://github.com/jayway/JsonPath)
 - [TProfiler (性能分析工具)] (https://github.com/alibaba/TProfiler)
 - [restcommander (快速并行异步的HTTP/REST/SOAP客户端即服务)] (https://github.com/eBay/restcommander)
+- [easyha (通用的ha管理工具)] (https://github.com/achun2080/easyha)
+- [oms (OMS运维管理平台)] (https://github.com/binbin91/oms)
+- [DocViewer (在线阅读的JAVA企业级解决方案)] (https://github.com/icode/DocViewer)
+- [hutool (一个类似于jodd和Apache commons lang的Java工具类)] (https://github.com/looly/hutool)
+- [java-uuid-generator] (https://github.com/cowtowncoder/java-uuid-generator)
+- [quartz-monitor (监控工具)] (https://github.com/xishuixixia/quartz-monitor)
+- [CronExpBuilder (Quartz Cron 表达式的可视化工具)] (https://github.com/wjw465150/CronExpBuilder)
+- [druid-ha] (https://github.com/alibaba/druid-ha)
+
+## 模拟器
+
+- [yod-mock (数据生成工具)] (https://github.com/qiu8310/yod-mock)
+- [wiremock (A tool for mocking HTTP services)] (https://github.com/tomakehurst/wiremock)
+
+## 系统监控
+
+- [dianping/cat (实时应用监控平台)] (https://github.com/dianping/cat)
+- [microscope (大规模分布式系统的跟踪、监控、告警平台)] (https://github.com/fjfd/microscope)
+- [bugatti (运维自动化部署监控平台)] (https://github.com/ofpay/bugatti)
 - [hawtio (基于JVM 的应用监控系统)] (https://github.com/hawtio/hawtio)
 
 ## 数据结构及算法
@@ -287,8 +315,10 @@
 
 ## 其他
 
+- [fastweixin] (https://github.com/sd4324530/fastweixin)
 - [微信公众号、企业号Java SDK] (https://github.com/chanjarster/weixin-java-tools)
 - [httl (JAVA模板引擎)] (https://github.com/httl/httl)
 - [spatial4j (地理空间类库)] (https://github.com/spatial4j/spatial4j)
 - [keywhiz (隐私管理)] (https://github.com/square/keywhiz)
 - [Qix (Node.Js、Golang、Machine Learning、PostgreSQL、Deep Learning)] (https://github.com/ty4z2008/Qix)
+- [metrics (用于开发易于运维，高性能的RESTful 网络服务)] (https://github.com/dropwizard/metrics)
