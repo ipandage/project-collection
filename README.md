@@ -221,6 +221,7 @@
 - [fastexcel (快速简单读取excel数据)] (https://github.com/izerui/zookeeper-explorer)
 - [ResumeSample (程序员简历模板系列)] (https://github.com/geekcompany/ResumeSample)
 - [http-api-design] (https://github.com/interagent/http-api-design)
+- [http-api-guide] (https://github.com/bolasblack/http-api-guide)
 - [rest-api] (https://github.com/arccode/rest-api)
 - [exhibitor (zookeeper 监控工具)] (https://github.com/Netflix/exhibitor)
 - [hbase-gui-admin] (https://github.com/bit-ware/HBaseXplorer)
