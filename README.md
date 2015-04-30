@@ -16,6 +16,9 @@
     - [java设计模式] (https://github.com/iluwatar/java-design-patterns)
     - [图说设计模式] (https://github.com/me115/design_patterns)
 
+- 反射
+    - [reflectasm] (https://github.com/EsotericSoftware/reflectasm)
+
 - JVM
     - [GCViewer] (https://github.com/chewiebug/GCViewer)
 
@@ -49,6 +52,7 @@
 
     - [kryo] (https://github.com/EsotericSoftware/kryo)
     - [glowworm] (https://github.com/bigbully/glowworm)
+    - [fast-serialization] (https://github.com/RuedigerMoeller/fast-serialization)
 
 - 消息推送
 
@@ -94,6 +98,7 @@
     - [Lealone (最新潮的分布式数据库)] (https://github.com/codefollower/Lealone)
     - [uncode-dal-all (基于mybatis、spring jdbc、hibernate的通用数据该问层)] (https://github.com/uncodecn/uncode-dal-all)
     - [TribeDB] (https://github.com/yangjiePro/TribeDB)
+    - [zdal (支付宝自主研发的数据中间件产品)] (https://github.com/lonely7345/zdal)
 
 - 安全
 
@@ -125,6 +130,7 @@
 
     - [Java分布式中文分词组件] (https://github.com/ysc/word)
     - [ansj_seg (ansj分词.ict的真正java实现)] (https://github.com/NLPchina/ansj_seg)
+    - [paoding-rose] (https://github.com/zhegexiaohuozi/paoding-rose)
 
 - 搜索
 
