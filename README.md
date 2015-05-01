@@ -299,6 +299,7 @@
 
 - [datumbox-framework] (https://github.com/datumbox/datumbox-framework)
 - [ml-ease (机器学习工具包)] (https://github.com/datumbox/datumbox-framework)
+- [apache/mahout] (https://github.com/apache/mahout)
 
 ## Nginx
 
