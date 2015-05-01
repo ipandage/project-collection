@@ -220,8 +220,11 @@
 
 - 图表
 
-  - [highcharts] (https://github.com/highslide-software/highcharts.com)
-  - [echarts (图形渲染，数据可视化)] (https://github.com/ecomfe/echarts)
+    - [highcharts] (https://github.com/highslide-software/highcharts.com)
+    - [echarts (图形渲染，数据可视化)] (https://github.com/ecomfe/echarts)
+    - [d3-tutorial-cn] (https://github.com/pkuwwt/d3-tutorial-cn)
+    - [jQueryGantt (js 甘特图)] (https://github.com/robicch/jQueryGantt)
+    - [Chart.js] (https://github.com/nnnick/Chart.js)
 
 ## 工具
 
@@ -284,6 +287,7 @@
 - [presto (大数据查询引擎)] (https://github.com/facebook/presto)
 - [mdrill (千亿数据即席分析)] (https://github.com/alibaba/mdrill)
 - [higo (海狗-多维在线分析系统)] (https://github.com/muyannian/higo)
+- [fnordmetric (实时数据分析)] (https://github.com/paulasmuth/fnordmetric)
 
 ## 实时计算
 
