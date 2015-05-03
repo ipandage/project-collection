@@ -268,6 +268,7 @@
 - [microscope (大规模分布式系统的跟踪、监控、告警平台)] (https://github.com/fjfd/microscope)
 - [bugatti (运维自动化部署监控平台)] (https://github.com/ofpay/bugatti)
 - [hawtio (基于JVM 的应用监控系统)] (https://github.com/hawtio/hawtio)
+- [javamelody (可以监控Java应用（比如项目war，ear包）以及应用服务器)] (https://github.com/javamelody/javamelody)
 
 ## 数据结构及算法
 
