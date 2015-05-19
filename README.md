@@ -2,6 +2,7 @@
 
 ## awesomes
 
+- [awesome (A curated list of awesome lists)] (https://github.com/sindresorhus/awesome)
 - [awesome-awesomes] (https://github.com/fleveque/awesome-awesomes)
 - [learn-with-open-source (借助开源项目，学习软件开发)] (https://github.com/zhuangbiaowei/learn-with-open-source)
 
