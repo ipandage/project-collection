@@ -257,6 +257,7 @@
 - [quartz-monitor (监控工具)] (https://github.com/xishuixixia/quartz-monitor)
 - [CronExpBuilder (Quartz Cron 表达式的可视化工具)] (https://github.com/wjw465150/CronExpBuilder)
 - [druid-ha] (https://github.com/alibaba/druid-ha)
+- [jsoneditor] (https://github.com/josdejong/jsoneditor)
 
 ## 模拟器
 
