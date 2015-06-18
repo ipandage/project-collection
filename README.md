@@ -327,6 +327,10 @@
 - [ServiceFramework (Java MVC 框架，专为 移动应用后端量身定做)] (https://github.com/allwefantasy/ServiceFramework)
 - [helios (移动应用后端服务框架)] (https://github.com/spotify/helios)
 
+## 安全
+
+- [知道创宇 余弦] (https://github.com/evilcos/papers)
+
 ## 其他
 
 - [fastweixin] (https://github.com/sd4324530/fastweixin)
