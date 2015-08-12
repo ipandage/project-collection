@@ -321,6 +321,7 @@
 
 - [the-way-to-go_ZH_CN (Go入门指南)] (https://github.com/Unknwon/the-way-to-go_ZH_CN)
 - [go-fundamental-programming (Go编程基础)] (https://github.com/Unknwon/go-fundamental-programming)
+- [Go语言资料收集] (https://github.com/wonderfo/wonderfogo/wiki)
 
 ## 移动
 
