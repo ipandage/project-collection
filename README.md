@@ -44,7 +44,7 @@
 
     - [jeesite] (https://github.com/thinkgem/jeesite)
     - [s2jh] (https://github.com/xautlx/s2jh)
-    - [APDPlat] (https://github.com/thinkgem/jeesite)
+    - [APDPlat] (https://github.com/ysc/APDPlat)
     - [structr] (https://github.com/structr/structr)
     - [A Sinatra inspired framework for java] (https://github.com/perwendel/spark)
     - [cl-privilege (通用权限管理系统)] (https://github.com/pumadong/cl-privilege)
