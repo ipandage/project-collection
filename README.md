@@ -48,6 +48,7 @@
     - [structr] (https://github.com/structr/structr)
     - [A Sinatra inspired framework for java] (https://github.com/perwendel/spark)
     - [cl-privilege (通用权限管理系统)] (https://github.com/pumadong/cl-privilege)
+    - [SpringMVC-Spring-MyBatis] (https://github.com/ZhibingXie/SpringMVC-Spring-MyBatis)
 
 - 序列化
 
