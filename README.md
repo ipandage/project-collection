@@ -320,6 +320,7 @@
 - [show-me-the-code (Python 练习册)] (https://github.com/Yixiaohan/show-me-the-code)
 - [codeparkshare (零基础学习Python、Python入门)] (https://github.com/Yixiaohan/show-me-the-code)
 - [python自动化运维：技术与最佳实践] (https://github.com/yorkoliu/pyauto)
+- [awesome-python] (https://github.com/vinta/awesome-python)
 
 ## Go
 
