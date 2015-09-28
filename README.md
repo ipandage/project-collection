@@ -228,6 +228,10 @@
     - [jQueryGantt (js 甘特图)] (https://github.com/robicch/jQueryGantt)
     - [Chart.js] (https://github.com/nnnick/Chart.js)
 
+- 组件
+
+    - [跨终端的web弹层组件] (https://github.com/sentsin/layer)
+
 ## 工具
 
 - [RedisClient (Java Redis Client GUI Tool)] (https://github.com/caoxinyu/RedisClient)
