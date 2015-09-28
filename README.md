@@ -265,6 +265,7 @@
 - [jsoneditor] (https://github.com/josdejong/jsoneditor)
 - [QRGen(生成二维码)] (https://github.com/kenglxn/QRGen)
 - [curator(ZooKeeper client)] (https://github.com/Netflix/curator)
+- [greys-anatomy(Java诊断工具)] (https://github.com/oldmanpushcart/greys-anatomy)
 
 ## 模拟器
 
