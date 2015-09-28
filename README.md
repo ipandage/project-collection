@@ -264,6 +264,7 @@
 - [druid-ha] (https://github.com/alibaba/druid-ha)
 - [jsoneditor] (https://github.com/josdejong/jsoneditor)
 - [QRGen(生成二维码)] (https://github.com/kenglxn/QRGen)
+- [curator(ZooKeeper client)] (https://github.com/Netflix/curator)
 
 ## 模拟器
 
