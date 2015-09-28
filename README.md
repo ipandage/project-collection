@@ -263,6 +263,7 @@
 - [CronExpBuilder (Quartz Cron 表达式的可视化工具)] (https://github.com/wjw465150/CronExpBuilder)
 - [druid-ha] (https://github.com/alibaba/druid-ha)
 - [jsoneditor] (https://github.com/josdejong/jsoneditor)
+- [QRGen(生成二维码)] (https://github.com/kenglxn/QRGen)
 
 ## 模拟器
 
