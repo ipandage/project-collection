@@ -264,7 +264,7 @@
 - [druid-ha] (https://github.com/alibaba/druid-ha)
 - [jsoneditor] (https://github.com/josdejong/jsoneditor)
 - [QRGen(生成二维码)] (https://github.com/kenglxn/QRGen)
-- [curator(ZooKeeper client)] (https://github.com/Netflix/curator)
+- [curator(ZooKeeper client)] (https://github.scom/Netflix/curator)
 - [greys-anatomy(Java诊断工具)] (https://github.com/oldmanpushcart/greys-anatomy)
 
 ## 模拟器
@@ -328,6 +328,7 @@
 - [codeparkshare (零基础学习Python、Python入门)] (https://github.com/Yixiaohan/show-me-the-code)
 - [python自动化运维：技术与最佳实践] (https://github.com/yorkoliu/pyauto)
 - [awesome-python] (https://github.com/vinta/awesome-python)
+- [schedule] (https://github.com/dbader/schedule)
 
 ## Go
 
