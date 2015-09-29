@@ -214,6 +214,10 @@
     - [Node.js 包教不包会] (https://github.com/alsotang/node-lessons)
     - [七天学会NodeJS] (http://nqdeng.github.io/7-days-nodejs/)
 
+- react
+
+    - [awesome-react] (https://github.com/enaqx/awesome-react)
+
 - html5
 
     - [agile (HTML5移动应用前端框架)] (https://github.com/exmobi/agile)
