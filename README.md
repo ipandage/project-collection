@@ -10,6 +10,12 @@
 
 - [免费的计算机编程类中文书籍] (https://github.com/justjavac/free-programming-books-zh_CN)
 
+## 操作系统
+
+- linux
+
+    - [Linux工具快速教程] (https://github.com/me115/linuxtools_rst)
+
 ## java
 
 - 设计模式
