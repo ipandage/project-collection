@@ -210,6 +210,10 @@
 
     - [Bootstrap后台管理系统模版Ace] (https://github.com/DavidXuQQ839305878/ace)
 
+- AngularJS
+
+    - [angularjs-cn] (https://github.com/peiransun/angularjs-cn)
+
 - node.js
 
     - [Node.js 包教不包会] (https://github.com/alsotang/node-lessons)
