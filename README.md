@@ -217,6 +217,7 @@
 
 - node.js
 
+    - [awesome-nodejs] (https://github.com/vndmtrx/awesome-nodejs)
     - [Node.js 包教不包会] (https://github.com/alsotang/node-lessons)
     - [七天学会NodeJS] (http://nqdeng.github.io/7-days-nodejs/)
 
