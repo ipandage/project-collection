@@ -289,6 +289,7 @@
 - [在线Api文档] (http://tool.oschina.net/apidocs/)
 - [json server] (https://github.com/typicode/json-server)
 - [okhttp] (https://github.com/square/okhttp)
+- [F2etest (多浏览器兼容性测试整体解决方案)] (https://github.com/alibaba/f2etest)
 
 
 ## 测试
