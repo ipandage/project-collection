@@ -110,6 +110,7 @@
     - [uncode-dal-all (基于mybatis、spring jdbc、hibernate的通用数据该问层)] (https://github.com/uncodecn/uncode-dal-all)
     - [TribeDB] (https://github.com/yangjiePro/TribeDB)
     - [zdal (支付宝自主研发的数据中间件产品)] (https://github.com/lonely7345/zdal)
+    - [sharding-jdbc] (https://github.com/dangdangdotcom/sharding-jdbc)
 
 - 安全
 
