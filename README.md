@@ -209,6 +209,7 @@
     - [noty (jquery 消息插件)] (https://github.com/needim/noty)
     - [bootbox] (https://github.com/makeusabrew/bootbox)
     - [jqGrid] (https://github.com/tonytomov/jqGrid)
+    - [jquery 源码分析] (https://github.com/360code/jquery)
 
 - Bootstrap
 
