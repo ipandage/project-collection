@@ -8,6 +8,8 @@
 - [awesome-interviews] (https://github.com/MaximAbramchuck/awesome-interviews)
 - [awesome-java-cn] (https://github.com/jobbole/awesome-java-cn)
 - [Awesome Developer] (https://github.com/phodal/developer)
+- [awesome-design-cn] (https://github.com/jobbole/awesome-design-cn)
+
 
 ## 书籍
 
