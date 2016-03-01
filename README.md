@@ -182,6 +182,10 @@
 
 ## 前端
 
+- 资源
+
+    - [Front-End-Develop-Guide] (https://github.com/icepy/Front-End-Develop-Guide)
+
 - 实例
 
     - [天猫前端] (https://github.com/tmallfe/tmallfe.github.io)
