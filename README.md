@@ -392,6 +392,11 @@
 
 - [awesome-ios-cn] (https://github.com/jobbole/awesome-ios-cn)
 
+## Android
+
+- [awesome-android] (https://github.com/snowdream/awesome-android)
+- [android-demos] (https://github.com/novoda/android-demos)
+
 ## 其他
 
 - [fastweixin] (https://github.com/sd4324530/fastweixin)
@@ -401,3 +406,4 @@
 - [keywhiz (隐私管理)] (https://github.com/square/keywhiz)
 - [Qix (Node.Js、Golang、Machine Learning、PostgreSQL、Deep Learning)] (https://github.com/ty4z2008/Qix)
 - [metrics (用于开发易于运维，高性能的RESTful 网络服务)] (https://github.com/dropwizard/metrics)
+- [remote-working(远程工作)] (https://github.com/greatghoul/remote-working)
