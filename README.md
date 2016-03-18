@@ -262,6 +262,10 @@
 
     - [跨终端的web弹层组件] (https://github.com/sentsin/layer)
 
+- 测试
+
+    - [macaca (一套完整的自动化测试解决方案)] (https://github.com/alibaba/macaca)
+
 ## 工具
 
 - [RedisClient (Java Redis Client GUI Tool)] (https://github.com/caoxinyu/RedisClient)
