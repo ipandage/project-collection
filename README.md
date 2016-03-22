@@ -270,6 +270,11 @@
 
     - [macaca (一套完整的自动化测试解决方案)] (https://github.com/alibaba/macaca)
 
+- 前端工具
+
+    - [ua-parser-js] (https://github.com/faisalman/ua-parser-js)
+
+
 ## 工具
 
 - [RedisClient (Java Redis Client GUI Tool)] (https://github.com/caoxinyu/RedisClient)
