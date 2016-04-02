@@ -386,6 +386,7 @@
 - [python自动化运维：技术与最佳实践] (https://github.com/yorkoliu/pyauto)
 - [awesome-python] (https://github.com/vinta/awesome-python)
 - [schedule] (https://github.com/dbader/schedule)
+- [awesome-python-webapp (小白的Python入门教程实战篇)] (https://github.com/michaelliao/awesome-python-webapp)
 
 ## Go
 
