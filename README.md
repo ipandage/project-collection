@@ -216,6 +216,7 @@
     - [javascript 的 12 个怪癖（quirks）] (https://github.com/justjavac/12-javascript-quirks)
     - [JavaScript Patterns 中译本] (https://github.com/TooBug/javascript.patterns)
     - [jstrace] (https://github.com/jstrace/jstrace)
+    - [js_designpatterns] (https://github.com/nnupoor/js_designpatterns)
 
 - Jquery
 
