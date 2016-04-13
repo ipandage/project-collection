@@ -279,6 +279,7 @@
 - 全栈
 
     - [全栈工程师之路-Node.js] (https://github.com/i5ting/nodejs-fullstack)
+    - [Growth 全栈增长工程师指南] (https://github.com/phodal/growth-ebook)
 
 ## 工具
 
