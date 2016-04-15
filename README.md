@@ -17,6 +17,11 @@
 - [ebook] (https://github.com/onestraw/ebook)
 
 
+## 教程
+
+- [IntelliJ IDEA 简体中文专题教程] (https://github.com/judasn/IntelliJ-IDEA-Tutorial)
+
+
 ## 操作系统
 
 - linux
