@@ -330,6 +330,7 @@
 
 
 ## 测试
+
 - [压力测试工具(wrk)] (https://github.com/wg/wrk)
 - [REST services测试工具(rest-assured)] (https://github.com/jayway/rest-assured)
 
@@ -409,6 +410,10 @@
 
 - [ServiceFramework (Java MVC 框架，专为 移动应用后端量身定做)] (https://github.com/allwefantasy/ServiceFramework)
 - [helios (移动应用后端服务框架)] (https://github.com/spotify/helios)
+
+## Hybrid
+
+- [CordovaCn] (https://github.com/CordovaCn/CordovaCn)
 
 ## 安全
 
