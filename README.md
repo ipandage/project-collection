@@ -428,6 +428,7 @@
 
 - [awesome-android] (https://github.com/snowdream/awesome-android)
 - [android-demos] (https://github.com/novoda/android-demos)
+- [android-open-project-analysis(Android 开源项目源码解析)] (https://github.com/android-cn/android-open-project-analysis)
 
 ## 其他
 
