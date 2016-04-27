@@ -120,6 +120,7 @@
     - [TribeDB] (https://github.com/yangjiePro/TribeDB)
     - [zdal (支付宝自主研发的数据中间件产品)] (https://github.com/lonely7345/zdal)
     - [sharding-jdbc] (https://github.com/dangdangdotcom/sharding-jdbc)
+    - [shark(轻量级的分布式mysql分库分表中间件)] (https://github.com/gaoxianglong/shark)
 
 - 安全
 
