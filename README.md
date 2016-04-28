@@ -427,6 +427,7 @@
 
 ## Android
 
+- [Android官方培训课程中文版] (http://hukai.me/android-training-course-in-chinese/)
 - [awesome-android] (https://github.com/snowdream/awesome-android)
 - [android-demos] (https://github.com/novoda/android-demos)
 - [android-open-project-analysis(Android 开源项目源码解析)] (https://github.com/android-cn/android-open-project-analysis)
