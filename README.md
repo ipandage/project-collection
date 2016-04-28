@@ -431,6 +431,7 @@
 - [android-demos] (https://github.com/novoda/android-demos)
 - [android-open-project-analysis(Android 开源项目源码解析)] (https://github.com/android-cn/android-open-project-analysis)
 - [android-open-project] (https://github.com/Trinea/android-open-project)
+- [Android-Dev-Favorites] (https://github.com/ruijun/Android-Dev-Favorites)
 
 ## 其他
 
