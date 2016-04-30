@@ -427,6 +427,7 @@
 
 ## Android
 
+- [Android学习路线指南] (http://blog.csdn.net/singwhatiwanna/article/details/49560409)
 - [Android官方培训课程中文版] (https://github.com/kesenhoo/android-training-course-in-chinese)
 - [awesome-android] (https://github.com/snowdream/awesome-android)
 - [android-demos] (https://github.com/novoda/android-demos)
