@@ -329,6 +329,7 @@
 - [okhttp] (https://github.com/square/okhttp)
 - [F2etest (多浏览器兼容性测试整体解决方案)] (https://github.com/alibaba/f2etest)
 - [iconfont (字体图标制作工具)] (http://www.iconfont.cn/)
+- [vConsole (一个针对手机网页的前端 console 调试面板)] (https://github.com/WechatFE/vConsole)
 
 
 ## 测试
