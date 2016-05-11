@@ -89,6 +89,7 @@
     - [grpc-java] (https://github.com/grpc/grpc-java)
     - [ob1k] (https://github.com/outbrain/ob1k)
     - [pigeon1] (https://github.com/dianping/pigeon1)
+    - [motan] (https://github.com/weibocom/motan)
 
 - 并发框架
 
