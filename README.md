@@ -27,6 +27,7 @@
 - linux
 
     - [Linux工具快速教程] (https://github.com/me115/linuxtools_rst)
+    - [Linux-Tutorial(Java 程序员眼中的 Linux)] (https://github.com/judasn/Linux-Tutorial)
 
 ## java
 
