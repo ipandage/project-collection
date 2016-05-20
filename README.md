@@ -425,6 +425,7 @@
 ## Hybrid
 
 - [CordovaCn] (https://github.com/CordovaCn/CordovaCn)
+- [awesome-cordova] (https://github.com/busterc/awesome-cordova)
 
 ## 安全
 
