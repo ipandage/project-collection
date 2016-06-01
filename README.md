@@ -454,6 +454,10 @@
 
 - [ops_doc(运维简洁实用手册)] (https://github.com/liquanzhou/ops_doc)
 
+## 项目管理
+
+- [timeline] (http://thetimelineproj.sourceforge.net/)
+
 ## 其他
 
 - [fastweixin] (https://github.com/sd4324530/fastweixin)
