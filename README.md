@@ -176,6 +176,7 @@
 
     - [super-diamond] (https://github.com/melin/super-diamond)
     - [disconf (分布式配置管理平台)] (https://github.com/knightliao/disconf)
+    - [xdiamond (全局配置中心)] (https://github.com/hengyunabc/xdiamond)
 
 - 作业调度
 
