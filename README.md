@@ -191,6 +191,7 @@
 
     - [webmagic] (https://github.com/code4craft/webmagic)
     - [WebCollector] (https://github.com/CrawlScript/WebCollector)
+    - [zerg(基于docker的分布式爬虫服务)] (https://github.com/huichen/zerg)
 
 - 日志分析
 
