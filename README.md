@@ -401,6 +401,7 @@
 
 ## Nginx
 
+- [OpenResty最佳实践] (https://www.gitbook.com/book/moonbingbing/openresty-best-practices/details)
 - [nginx-tutorials] (https://github.com/openresty/nginx-tutorials)
 - [nginx-book (Nginx开发从入门到精通)] (https://github.com/taobao/nginx-book)
 - [lua-nginx-module] (https://github.com/openresty/lua-nginx-module)
