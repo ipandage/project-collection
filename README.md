@@ -421,7 +421,9 @@
 - [awesome-python-webapp (小白的Python入门教程实战篇)] (https://github.com/michaelliao/awesome-python-webapp)
 
 ## Lua
+
 - [lua53doc (The Chinese Translation of Lua 5.3 document)] (https://github.com/cloudwu/lua53doc)
+- [luaforwindows] (http://luaforge.net/projects/luaforwindows/)
 
 ## Go
 
