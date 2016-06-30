@@ -121,7 +121,7 @@
     - [uncode-dal-all (基于mybatis、spring jdbc、hibernate的通用数据该问层)] (https://github.com/uncodecn/uncode-dal-all)
     - [TribeDB] (https://github.com/yangjiePro/TribeDB)
     - [zdal (支付宝自主研发的数据中间件产品)] (https://github.com/lonely7345/zdal)
-    - [sharding-jdbc] (https://github.com/dangdangdotcom/sharding-jdbc)
+    - [sharding-jdbc (当当)] (https://github.com/dangdangdotcom/sharding-jdbc)
     - [shark(轻量级的分布式mysql分库分表中间件)] (https://github.com/gaoxianglong/shark)
     - [letv-payorder(乐视集团支付订单系统分库分表开源实现)] (https://github.com/liangyanghe/letv-payorder)
 
