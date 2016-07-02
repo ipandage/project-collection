@@ -404,6 +404,8 @@
 ## Nginx
 
 - [OpenResty最佳实践] (https://www.gitbook.com/book/moonbingbing/openresty-best-practices/details)
+- [lua-resty-redis] (https://github.com/openresty/lua-resty-redis)
+- [lua-resty-mysql] (https://github.com/openresty/lua-resty-mysql)
 - [nginx-tutorials] (https://github.com/openresty/nginx-tutorials)
 - [nginx-book (Nginx开发从入门到精通)] (https://github.com/taobao/nginx-book)
 - [lua-nginx-module] (https://github.com/openresty/lua-nginx-module)
