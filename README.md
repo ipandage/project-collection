@@ -10,6 +10,7 @@
 - [Awesome Developer] (https://github.com/phodal/developer)
 - [awesome-design-cn] (https://github.com/jobbole/awesome-design-cn)
 - [awesome-github] (https://github.com/AntBranch/awesome-github)
+- [awesome-javascript] (https://github.com/sorrycc/awesome-javascript)
 
 
 ## 书籍
