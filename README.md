@@ -418,6 +418,7 @@
 - [ngx_lua_waf (基于lua-nginx-module(openresty)的web应用防火墙)] (https://github.com/loveshell/ngx_lua_waf)
 - [headers-more-nginx-module] (https://github.com/openresty/headers-more-nginx-module)
 - [tomcat-redis-session-manager] (https://github.com/jcoleman/tomcat-redis-session-manager)
+- [nginx 可视化web ui负载均衡配置] (https://github.com/v55448330/lazy-balancer)
 
 ## Python
 
