@@ -350,6 +350,7 @@
 - [cmder] (https://github.com/cmderdev/cmder)
 - [手机上的集成调试环境] (https://github.com/TencentOpen/GT)
 - [实时协助工具] (https://www.processon.com)
+- [faker.js 测试数据生成工具] (https://github.com/Marak/faker.js)
 
 ## 测试
 
