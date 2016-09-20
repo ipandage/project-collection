@@ -3,7 +3,7 @@
 ## awesomes
 
 - [awesome (A curated list of awesome lists)] (https://github.com/sindresorhus/awesome)
-- [awesome-awesomes] (https://github.com/fleveque/awesome-awesomes)
+- [awesome-awesomes] (https://github.com/fleveque/awesome-awesomes)系统监控
 - [learn-with-open-source (借助开源项目，学习软件开发)] (https://github.com/zhuangbiaowei/learn-with-open-source)
 - [awesome-interviews] (https://github.com/MaximAbramchuck/awesome-interviews)
 - [awesome-java-cn] (https://github.com/jobbole/awesome-java-cn)
@@ -375,6 +375,10 @@
 - [logstash-best-practice-cn (Logstash 最佳实践)] (https://github.com/chenryn/logstash-best-practice-cn)
 - [glances (linux系统实时监控)] (https://github.com/nicolargo/glances) 
 
+## 系统部署
+
+- [j2deploy] (https://github.com/naixwf/j2deploy)
+- [apollo] (https://github.com/ctripcorp/apollo)
 
 ## 数据结构及算法
 
