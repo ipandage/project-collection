@@ -86,6 +86,7 @@
     - [xultimate-remoting (提供Java中的一些分布式远程调用的ShowCase)] (https://github.com/daniellitoc/xultimate-remoting)
     - [rpc4j (RPC入门学习示例)] (https://github.com/zoopaper/rpc4j)
     - [Dubbo] (https://github.com/alibaba/dubbo)
+    - [dubbox] (https://github.com/dangdangdotcom/dubbox)
     - [58.com跨平台高性能高可用中间层服务框架] (https://github.com/58code/Gaea)
     - [Hetty] (https://github.com/xishuixixia/Hetty)
     - [grpc-java] (https://github.com/grpc/grpc-java)
