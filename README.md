@@ -316,7 +316,6 @@
 - [unirest-java (HTTP client library)] (https://github.com/Mashape/unirest-java)
 - [zookeeper-explorer] (https://github.com/izerui/zookeeper-explorer)
 - [fastexcel (快速简单读取excel数据)] (https://github.com/izerui/zookeeper-explorer)
-- [ResumeSample (程序员简历模板系列)] (https://github.com/geekcompany/ResumeSample)
 - [http-api-design] (https://github.com/interagent/http-api-design)
 - [http-api-guide] (https://github.com/bolasblack/http-api-guide)
 - [rest-api] (https://github.com/arccode/rest-api)
@@ -509,6 +508,7 @@
 ## 面试
 
 - [FEX 面试问题] (https://github.com/fex-team/interview-questions)
+- [ResumeSample (程序员简历模板系列)] (https://github.com/geekcompany/ResumeSample)
 
 ## 书籍
 
