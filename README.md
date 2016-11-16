@@ -237,7 +237,8 @@
     - [JavaScript Patterns 中译本] (https://github.com/TooBug/javascript.patterns)
     - [jstrace] (https://github.com/jstrace/jstrace)
     - [js_designpatterns] (https://github.com/nnupoor/js_designpatterns)
-
+    - [Underscore] (https://github.com/jashkenas/underscore)
+    
 - Jquery
 
     - [BlockUI] (https://github.com/malsup/blockui)
