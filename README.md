@@ -510,3 +510,7 @@
 
 - [FEX 面试问题] (https://github.com/fex-team/interview-questions)
 
+## 书籍
+
+- [想通过自学成为一个有良好计算机专业素养的Java程序员要读哪些书？] (https://github.com/codefollower/My-Blog/issues/1)
+
