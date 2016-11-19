@@ -70,6 +70,7 @@
     - [A Sinatra inspired framework for java] (https://github.com/perwendel/spark)
     - [cl-privilege (通用权限管理系统)] (https://github.com/pumadong/cl-privilege)
     - [SpringMVC-Spring-MyBatis] (https://github.com/ZhibingXie/SpringMVC-Spring-MyBatis)
+    - [authManager(基于shiro的权限管理系统——分布式版)] (https://github.com/imalexyang/authManager)
 
 - 序列化
 
