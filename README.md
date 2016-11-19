@@ -261,6 +261,7 @@
 - Bootstrap
 
     - [Bootstrap后台管理系统模版Ace] (https://github.com/DavidXuQQ839305878/ace)
+    - [Bootstrap-Admin-Template] (https://github.com/puikinsh/Bootstrap-Admin-Template)
 
 - AngularJS
 
@@ -516,6 +517,10 @@
 
 - [iOS视频直播项目] (https://github.com/SunLiner/MiaowShow)
 - [EasyDarwin(高性能开源流媒体服务器)] (https://github.com/EasyDarwin/EasyDarwin)
+
+## 即时通讯
+
+- [TeamTalk] (https://github.com/mogujie/TeamTalk)
 
 ## 面试
 
