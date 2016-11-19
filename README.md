@@ -94,6 +94,10 @@
     - [pigeon1] (https://github.com/dianping/pigeon1)
     - [motan] (https://github.com/weibocom/motan)
 
+- 定时任务
+
+    - [light-task-scheduler] (https://github.com/ltsopensource/light-task-scheduler)
+
 - 并发框架
 
     - [disruptor] (https://github.com/LMAX-Exchange/disruptor)
@@ -171,6 +175,7 @@
 
     - [B2CWeb (仿淘宝的B2C商城项目)] (https://github.com/mission008/B2CWeb)
     - [jeeshop_springmvc] (https://github.com/kimmking/jeeshop_springmvc)
+    - [Morning] (https://git.oschina.net/Morning_/Morning)
 
 - 内容管理
 
