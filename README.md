@@ -71,6 +71,8 @@
     - [cl-privilege (通用权限管理系统)] (https://github.com/pumadong/cl-privilege)
     - [SpringMVC-Spring-MyBatis] (https://github.com/ZhibingXie/SpringMVC-Spring-MyBatis)
     - [authManager(基于shiro的权限管理系统——分布式版)] (https://github.com/imalexyang/authManager)
+    - [xultimate-toolkit] (https://github.com/daniellitoc/xultimate-toolkit)
+    - [springmore] (https://github.com/tangyanbo/springmore)
 
 - 序列化
 
@@ -94,6 +96,7 @@
     - [ob1k] (https://github.com/outbrain/ob1k)
     - [pigeon1] (https://github.com/dianping/pigeon1)
     - [motan] (https://github.com/weibocom/motan)
+    - [xultimate-remoting] (https://github.com/daniellitoc/xultimate-remoting)
 
 - 定时任务
 
