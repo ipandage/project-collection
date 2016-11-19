@@ -435,6 +435,7 @@
 - [headers-more-nginx-module] (https://github.com/openresty/headers-more-nginx-module)
 - [tomcat-redis-session-manager] (https://github.com/jcoleman/tomcat-redis-session-manager)
 - [nginx 可视化web ui负载均衡配置] (https://github.com/v55448330/lazy-balancer)
+- [VeryNginx] (https://github.com/alexazhou/VeryNginx)
 
 ## Python
 
