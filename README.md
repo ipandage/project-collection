@@ -111,6 +111,8 @@
     - [Redis HA] (https://github.com/warmbreeze/sharded-jedis-sentinel-pool)
     - [disgear (distributed cache based on redis ,support sharding,HA)] (https://github.com/yangbutao/disgear)
     - [cachecloud (搜狐视频(sohu tv)Redis私有云平台)] (https://github.com/sohutv/cachecloud)
+    - [AutoLoadCache] (https://github.com/qiujiayu/AutoLoadCache)
+    
 
 - 消息系统
 
