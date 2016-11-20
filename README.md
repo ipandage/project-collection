@@ -318,6 +318,8 @@
 - 控件
 
     - [multi-select] (https://github.com/lou/multi-select)
+    - [layer] (https://github.com/C-Dream/layer)
+
 
 ## 工具
 
