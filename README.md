@@ -188,6 +188,8 @@
 - 内容管理
 
     - [mushroom (动态内容管理系统)] (https://github.com/mission008/B2CWeb)
+    - [MCMS (铭飞MCMS内容管理系统)] (https://github.com/ming-soft/MCMS)
+    
 
 - 配置管理
 
