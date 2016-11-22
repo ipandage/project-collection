@@ -434,6 +434,10 @@
 - [jstorm] (https://github.com/alibaba/jstorm)
 - [gearpump (基于Akka的新一代流处理引擎)] (https://github.com/intel-hadoop/gearpump)
 
+## 用户行为分析
+
+- [apple-ums-server] (https://github.com/xushaomin/apple-ums-server)
+
 ## 机器学习
 
 - [datumbox-framework] (https://github.com/datumbox/datumbox-framework)
