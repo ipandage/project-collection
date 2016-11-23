@@ -231,6 +231,7 @@
     - [Front-End-Develop-Guide] (https://github.com/icepy/Front-End-Develop-Guide)
     - [fks (前端资源汇总)] (https://github.com/JacksonTian/fks)
     - [Front-end-tutorial (前端涉及的所有知识体系)] (https://github.com/AutumnsWind/Front-end-tutorial)
+    - [fetool (大前端的瑞士军刀)] (https://github.com/nieweidong/fetool)
 
 - 实例
 
