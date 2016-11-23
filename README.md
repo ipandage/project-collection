@@ -65,7 +65,15 @@
 - 基础开发框架
 
     - [jeesite] (https://github.com/thinkgem/jeesite)
-    
+    - [s2jh] (https://github.com/xautlx/s2jh)
+    - [APDPlat] (https://github.com/ysc/APDPlat)
+    - [structr] (https://github.com/structr/structr)
+    - [A Sinatra inspired framework for java] (https://github.com/perwendel/spark)
+    - [cl-privilege (通用权限管理系统)] (https://github.com/pumadong/cl-privilege)
+    - [authManager(基于shiro的权限管理系统——分布式版)] (https://github.com/imalexyang/authManager)
+    - [xultimate-toolkit] (https://github.com/daniellitoc/xultimate-toolkit)
+    - [springmore] (https://github.com/tangyanbo/springmore)
+    - [jutils] (https://github.com/chenssy89/jutils)
 
 - 序列化
 
