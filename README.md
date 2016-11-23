@@ -17,6 +17,7 @@
 
 - [免费的计算机编程类中文书籍] (https://github.com/justjavac/free-programming-books-zh_CN)
 - [ebook] (https://github.com/onestraw/ebook)
+- [想通过自学成为一个有良好计算机专业素养的Java程序员要读哪些书？] (https://github.com/codefollower/My-Blog/issues/1)
 
 
 ## 教程
@@ -545,7 +546,5 @@
 - [FEX 面试问题] (https://github.com/fex-team/interview-questions)
 - [ResumeSample (程序员简历模板系列)] (https://github.com/geekcompany/ResumeSample)
 
-## 书籍
 
-- [想通过自学成为一个有良好计算机专业素养的Java程序员要读哪些书？] (https://github.com/codefollower/My-Blog/issues/1)
 
