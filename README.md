@@ -469,6 +469,10 @@
 
 - [个人技术分享] (https://github.com/hedengcheng/tech)
 
+## 存储
+
+- [xultimate-resource] (https://github.com/daniellitoc/xultimate-resource)
+
 ## Python
 
 - [show-me-the-code (Python 练习册)] (https://github.com/Yixiaohan/show-me-the-code)
