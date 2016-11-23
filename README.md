@@ -68,7 +68,9 @@
     - [s2jh] (https://github.com/xautlx/s2jh)
     - [APDPlat] (https://github.com/ysc/APDPlat)
     - [structr] (https://github.com/structr/structr)
-    - [cl-privilege (通用权限管理系统)] (https://github.com/pumadong/cl-privilege)
+    - [xultimate-toolkit] (https://github.com/daniellitoc/xultimate-toolkit)
+    - [springmore] (https://github.com/tangyanbo/springmore)
+    - [jutils] (https://github.com/chenssy89/jutils)
 
 - 序列化
 
