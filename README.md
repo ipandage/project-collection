@@ -265,7 +265,7 @@
 - Bootstrap
 
     - [Bootstrap后台管理系统模版Ace] (https://github.com/DavidXuQQ839305878/ace)
-    - [Bootstrap-Admin-Template] (https://github.com/puikinsh/Bootstrap-Admin-Template)
+    - [Bootstrap-Admin-Template] (https://github.com/puikinsh/Bootstrap-Admin-Template)
 
 - AngularJS
 
