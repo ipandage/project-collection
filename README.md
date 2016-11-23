@@ -462,6 +462,10 @@
 - [nginx 可视化web ui负载均衡配置] (https://github.com/v55448330/lazy-balancer)
 - [VeryNginx] (https://github.com/alexazhou/VeryNginx)
 
+## 数据库
+
+- [个人技术分享] (https://github.com/hedengcheng/tech)
+
 ## Python
 
 - [show-me-the-code (Python 练习册)] (https://github.com/Yixiaohan/show-me-the-code)
