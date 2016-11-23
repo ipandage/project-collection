@@ -184,6 +184,7 @@
     - [B2CWeb (仿淘宝的B2C商城项目)] (https://github.com/mission008/B2CWeb)
     - [jeeshop_springmvc] (https://github.com/kimmking/jeeshop_springmvc)
     - [Morning] (https://git.oschina.net/Morning_/Morning)
+    - [goshop2] (https://github.com/pzhgugu/goshop2)
     - [ronco-pay(龙果支付)] (https://github.com/roncoo/roncoo-pay)
 
 - 内容管理
