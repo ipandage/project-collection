@@ -71,6 +71,8 @@
     - [xultimate-toolkit] (https://github.com/daniellitoc/xultimate-toolkit)
     - [springmore] (https://github.com/tangyanbo/springmore)
     - [jutils] (https://github.com/chenssy89/jutils)
+    - [cl-privilege (通用权限管理系统)] (https://github.com/pumadong/cl-privilege)
+    - [authManager(基于shiro的权限管理系统——分布式版)] (https://github.com/imalexyang/authManager)
 
 - 序列化
 
