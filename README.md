@@ -11,7 +11,7 @@
 - [awesome-design-cn] (https://github.com/jobbole/awesome-design-cn)
 - [awesome-github] (https://github.com/AntBranch/awesome-github)
 - [awesome-javascript] (https://github.com/sorrycc/awesome-javascript)
-- [PopularBlogSites] (https://github.com/jxqlovejava/PopularBlogSites)
+- [PopularBlogSites(不错的技术站点或技术博客)] (https://github.com/jxqlovejava/PopularBlogSites)
 
 ## 书籍
 
