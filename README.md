@@ -73,7 +73,9 @@
     - [jutils] (https://github.com/chenssy89/jutils)
     - [cl-privilege (通用权限管理系统)] (https://github.com/pumadong/cl-privilege)
     - [authManager(基于shiro的权限管理系统——分布式版)] (https://github.com/imalexyang/authManager)  
-    - [beauty_ssm_cluster(将"优雅的SSM框架"服务化治理 基于Dubbo+Zookeeper] (https://github.com/wosyingjun/beauty_ssm_dubbo) 
+    - [beauty_ssm_cluster(将"优雅的SSM框架"服务化治理 基于Dubbo+Zookeeper] (https://github.com/wosyingjun/beauty_ssm_dubbo)
+    - [移动易APP后台] (https://github.com/sectong/yidongyi) 
+    
     
 - 序列化
 
