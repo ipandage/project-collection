@@ -474,6 +474,7 @@
 ## 存储
 
 - [xultimate-resource] (https://github.com/daniellitoc/xultimate-resource)
+- [nginx-lua-fastdfs-GraphicsMagick] (https://github.com/hpxl/nginx-lua-fastdfs-GraphicsMagick)
 
 ## Python
 
