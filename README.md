@@ -545,6 +545,7 @@
 - [Qix (Node.Js、Golang、Machine Learning、PostgreSQL、Deep Learning)] (https://github.com/ty4z2008/Qix)
 - [metrics (用于开发易于运维，高性能的RESTful 网络服务)] (https://github.com/dropwizard/metrics)
 - [remote-working(远程工作)] (https://github.com/greatghoul/remote-working)
+- [jcalaBlog(博客)] (https://github.com/jcalaz/jcalaBlog)
 
 ## 直播
 
