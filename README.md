@@ -393,6 +393,8 @@
 - [压力测试工具(wrk)] (https://github.com/wg/wrk)
 - [REST services测试工具(rest-assured)] (https://github.com/jayway/rest-assured)
 - [RAP(Web接口管理工具)] (https://github.com/thx/RAP)
+- [sosoapi-web] (https://github.com/sosoapi/sosoapi-web)
+
 
 ## 模拟器
 
