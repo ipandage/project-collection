@@ -487,6 +487,10 @@
 - [schedule] (https://github.com/dbader/schedule)
 - [awesome-python-webapp (小白的Python入门教程实战篇)] (https://github.com/michaelliao/awesome-python-webapp)
 
+## PHP
+
+- [awesome-php] (https://github.com/JingwenTian/awesome-php)
+
 ## Lua
 
 - [lua53doc (The Chinese Translation of Lua 5.3 document)] (https://github.com/cloudwu/lua53doc)
