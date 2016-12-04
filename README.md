@@ -150,6 +150,7 @@
     - [shiro-example] (https://github.com/zhangkaitao/shiro-example)
     - [JavaSecurity] (https://github.com/dschadow/JavaSecurity)
     - [Douban-Java-SDK-OAuth2] (https://github.com/UglyTroLL/Douban-Java-SDK-OAuth2)
+    - [oauth2-provider] (https://github.com/iainporter/oauth2-provider)
 
 - 工作流
 
