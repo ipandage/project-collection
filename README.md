@@ -332,6 +332,10 @@
     - [multi-select] (https://github.com/lou/multi-select)
     - [layer] (https://github.com/C-Dream/layer)
 
+- 微信公账号
+
+    - [jquery-weui] (https://github.com/lihongxun945/jquery-weui)
+
 
 ## 工具
 
