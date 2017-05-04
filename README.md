@@ -23,7 +23,7 @@
 ## 教程
 
 - [IntelliJ IDEA 简体中文专题教程] (https://github.com/judasn/IntelliJ-IDEA-Tutorial)
-
+- [JAVA视频网盘分享] (http://blog.csdn.net/zhangdaiscott/article/details/18220411)
 
 ## 操作系统
 
