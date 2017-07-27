@@ -397,6 +397,7 @@
 - [DataX(数据同步)](https://github.com/alibaba/DataX)
 - [WebCodeGenerate](https://github.com/megatontech/WebCodeGenerate)
 - [watcher(系统监控)](https://github.com/whh32/watcher)
+- [图片查看器](https://exif.cn/view)
 
 ## 测试
 
