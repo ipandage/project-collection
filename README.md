@@ -191,6 +191,7 @@
     - [goshop2] (https://github.com/pzhgugu/goshop2)
     - [PayMap] (https://github.com/Martin404/PayMap)
     - [ronco-pay(龙果支付)] (https://github.com/roncoo/roncoo-pay)
+    - [xxpay] (https://gitee.com/jmdhappy/xxpay-master)
 
 - 内容管理
 
