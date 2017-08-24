@@ -399,6 +399,8 @@
 - [WebCodeGenerate](https://github.com/megatontech/WebCodeGenerate)
 - [watcher(系统监控)](https://github.com/whh32/watcher)
 - [图片查看器](https://exif.cn/view)
+- [在线Cron表达式生成器](http://cron.qqe2.com/)
+- [在线工具 - 程序员的工具箱](http://tool.lu/)
 
 ## 测试
 
