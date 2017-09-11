@@ -185,6 +185,7 @@
 - 搜索
 
     - [Spring Data Elasticsearch] (https://github.com/spring-projects/spring-data-elasticsearch)
+    - [Elasticsearch 权威指南] (https://es.xiaoleilu.com/)
     - [lucene-solr] (https://github.com/apache/lucene-solr)
 
 - 电商
