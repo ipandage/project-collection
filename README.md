@@ -80,6 +80,8 @@
     - [beauty_ssm_cluster(将"优雅的SSM框架"服务化治理 基于Dubbo+Zookeeper] (https://github.com/wosyingjun/beauty_ssm_dubbo)
     - [移动易APP后台] (https://github.com/sectong/yidongyi) 
     - [zheng 全方位J2EE企业级开发解决方案] (https://github.com/shuzheng/zheng) 
+    - [generator-jhipster] (https://github.com/jhipster/generator-jhipster) 
+    
     
 - 序列化
 
