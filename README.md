@@ -481,6 +481,7 @@
 - [apache/mahout] (https://github.com/apache/mahout)
 - [smile] (https://github.com/haifengl/smile)
 - [PredictionIO] (https://github.com/PredictionIO/PredictionIO)
+- [deeplearningbook-chinese] (https://github.com/exacity/deeplearningbook-chinese)
 
 ## Nginx
 
