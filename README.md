@@ -484,6 +484,11 @@
 - [PredictionIO] (https://github.com/PredictionIO/PredictionIO)
 - [deeplearningbook-chinese] (https://github.com/exacity/deeplearningbook-chinese)
 
+## 推荐系统
+
+- [lenskit] (https://github.com/lenskit/lenskit)
+
+
 ## Nginx
 
 - [OpenResty最佳实践] (https://www.gitbook.com/book/moonbingbing/openresty-best-practices/details)
