@@ -410,6 +410,8 @@
 - [在线Cron表达式生成器](http://cron.qqe2.com/)
 - [在线工具 - 程序员的工具箱](http://tool.lu/)
 - [redis命令大全](http://doc.redisfans.com/)
+- [vimium](https://github.com/philc/vimium)
+
 
 ## 测试
 
