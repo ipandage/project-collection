@@ -20,7 +20,7 @@
 - [免费的计算机编程类中文书籍] (https://github.com/justjavac/free-programming-books-zh_CN)
 - [ebook] (https://github.com/onestraw/ebook)
 - [想通过自学成为一个有良好计算机专业素养的Java程序员要读哪些书？] (https://github.com/codefollower/My-Blog/issues/1)
-
+- [Redis开发运维实践指南] (https://gnuhpc.gitbooks.io/redis-all-about/content/)
 
 ## 教程
 
