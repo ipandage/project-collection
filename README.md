@@ -125,6 +125,7 @@
 - 定时任务
 
     - [light-task-scheduler] (https://github.com/ltsopensource/light-task-scheduler)
+    - [niubi-job] (https://github.com/xiaolongzuo/niubi-job)
 
 - 并发框架
 
