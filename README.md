@@ -437,7 +437,6 @@
 - [redis命令大全](http://doc.redisfans.com/)
 - [vimium](https://github.com/philc/vimium)
 - [码农日常工具推荐](http://www.jianshu.com/p/d92ff3f6b00c)
-- [hutool](https://github.com/looly/hutool)
 
 
 ## 测试
