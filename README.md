@@ -438,6 +438,7 @@
 - [vimium](https://github.com/philc/vimium)
 - [码农日常工具推荐](http://www.jianshu.com/p/d92ff3f6b00c)
 - [try redis](http://try.redis.io/)
+- [谷歌上网助手](http://googlehelper.net/)
 
 ## 测试
 
