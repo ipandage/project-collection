@@ -14,6 +14,7 @@
 - [PopularBlogSites(不错的技术站点或技术博客)] (https://github.com/jxqlovejava/PopularBlogSites)
 - [interviews] (https://github.com/kdn251/interviews)
 - [awesome-blockchain-cn] (https://github.com/chaozh/awesome-blockchain-cn)
+- [architect-awesome](https://github.com/xingshaocheng/architect-awesome)
 
 ## 书籍
 
