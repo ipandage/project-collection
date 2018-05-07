@@ -15,6 +15,7 @@
 - [interviews] (https://github.com/kdn251/interviews)
 - [awesome-blockchain-cn] (https://github.com/chaozh/awesome-blockchain-cn)
 - [architect-awesome](https://github.com/xingshaocheng/architect-awesome)
+- [互联网公司技术架构](https://github.com/davideuler/architecture.of.internet-product)
 
 ## 书籍
 
