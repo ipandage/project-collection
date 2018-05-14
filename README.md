@@ -174,7 +174,7 @@
     - [shark(轻量级的分布式mysql分库分表中间件)] (https://github.com/gaoxianglong/shark)
     - [letv-payorder(乐视集团支付订单系统分库分表开源实现)] (https://github.com/liangyanghe/letv-payorder)
     - [tsharding] (https://github.com/baihui212/tsharding)
-    - [铜板街] (https://github.com/tongbanjie/baymax)
+    - [铜板街] (https://github.com/tongbanjie/baymax)
 
 - 安全
 
