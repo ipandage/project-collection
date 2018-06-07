@@ -105,6 +105,7 @@
     - [zheng 全方位J2EE企业级开发解决方案] (https://github.com/shuzheng/zheng) 
     - [generator-jhipster] (https://github.com/jhipster/generator-jhipster) 
     - [spring-boot-api-project-seed] (https://github.com/lihengming/spring-boot-api-project-seed) 
+    - [bootdo] (https://gitee.com/lcg0124/bootdo) 
     
      
 - 序列化
