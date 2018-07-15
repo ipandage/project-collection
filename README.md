@@ -61,6 +61,11 @@
 - 分布式事物
     
     - [happylifeplat-transaction] (https://github.com/yu199195/happylifeplat-transaction)
+    
+- restful
+    
+    - [RESTful API 设计参考文献列表] (https://github.com/aisuhua/restful-api-design-references) 
+    
 
 ## java
 
