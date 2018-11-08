@@ -70,8 +70,10 @@
 
 ## java
 
-- 设计模式
+- 代码优化
+    - [重构--改善既有代码的设计] (http://wangvsa.github.io/refactoring-cheat-sheet/)
 
+- 设计模式
     - [java设计模式] (https://github.com/iluwatar/java-design-patterns)
     - [图说设计模式] (https://github.com/me115/design_patterns)
 
