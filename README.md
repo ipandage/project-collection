@@ -288,6 +288,8 @@
     - [fks (前端资源汇总)] (https://github.com/JacksonTian/fks)
     - [Front-end-tutorial (前端涉及的所有知识体系)] (https://github.com/AutumnsWind/Front-end-tutorial)
     - [fetool (大前端的瑞士军刀)] (https://github.com/nieweidong/fetool)
+    - [整理收集最有趣的前端技术教程及文档] (https://github.com/cucygh/fe-material)
+    
 
 - 实例
 
