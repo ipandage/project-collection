@@ -243,6 +243,7 @@
     - [PayMap] (https://github.com/Martin404/PayMap)
     - [ronco-pay(龙果支付)] (https://github.com/roncoo/roncoo-pay)
     - [xxpay] (https://gitee.com/jmdhappy/xxpay-master)
+    - [极速开发微商城,分销商城的微服务分布式框架，前后端分离] (https://github.com/yjjdick/sdb-mall)
 
 - 内容管理
 
