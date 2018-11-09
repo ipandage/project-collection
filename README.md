@@ -290,6 +290,7 @@
     - [Front-end-tutorial (前端涉及的所有知识体系)] (https://github.com/AutumnsWind/Front-end-tutorial)
     - [fetool (大前端的瑞士军刀)] (https://github.com/nieweidong/fetool)
     - [整理收集最有趣的前端技术教程及文档] (https://github.com/cucygh/fe-material)
+    - [每个 JavaScript 工程师都应懂的33个概念] (https://github.com/stephentian/33-js-concepts)
     
 
 - 实例
