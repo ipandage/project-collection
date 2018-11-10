@@ -70,6 +70,9 @@
 
 ## java
 
+- 架构
+    - [architect-awesome 后端架构师技术图谱] (https://github.com/xingshaocheng/architect-awesome)
+
 - 代码优化
     - [重构--改善既有代码的设计] (http://wangvsa.github.io/refactoring-cheat-sheet/)
 
