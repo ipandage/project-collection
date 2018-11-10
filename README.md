@@ -559,6 +559,8 @@
 ## 数据库
 
 - [个人技术分享] (https://github.com/hedengcheng/tech)
+- [输入SQL，输出索引优化建议 SQLAdvisor] (https://github.com/Meituan-Dianping/SQLAdvisor)
+
 
 ## 存储
 
