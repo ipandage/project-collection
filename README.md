@@ -663,4 +663,5 @@
 ## 远程办公
 
 - [远程工作相关的资料] (https://github.com/greatghoul/remote-working)
+- [独立开发/自由职业/远程工作资源列表] (https://github.com/apachecn/awesome-indie-zh)
 
