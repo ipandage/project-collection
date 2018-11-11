@@ -66,6 +66,8 @@
 - restful
     
     - [RESTful API 设计参考文献列表] (https://github.com/aisuhua/restful-api-design-references) 
+    - [restful-api-specification RESTful API 设计规范] (https://github.com/godruoyi/restful-api-specification) 
+   
     
 
 ## java
