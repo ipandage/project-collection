@@ -72,6 +72,7 @@
 
 - 架构
     - [architect-awesome 后端架构师技术图谱] (https://github.com/xingshaocheng/architect-awesome)
+    - [architecture.taobao-alibaba 互联网公司架构: 淘宝技术架构，阿里巴巴技术架构] (https://github.com/davideuler/architecture.taobao-alibaba)
 
 - 代码优化
     - [重构--改善既有代码的设计] (http://wangvsa.github.io/refactoring-cheat-sheet/)
