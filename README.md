@@ -68,7 +68,10 @@
     - [RESTful API 设计参考文献列表] (https://github.com/aisuhua/restful-api-design-references) 
     - [restful-api-specification RESTful API 设计规范] (https://github.com/godruoyi/restful-api-specification) 
    
+- PAAS
     
+    - [spring cloud + vue + oAuth2.0全家桶实战] (https://github.com/paascloud/paascloud-master) 
+ 
 
 ## java
 
