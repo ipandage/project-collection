@@ -18,6 +18,7 @@
 - [互联网公司技术架构](https://github.com/davideuler/architecture.of.internet-product)
 - [technology-talk](https://github.com/aalansehaiyang/technology-talk)
 - [Java-Interview](https://github.com/crossoverJie/Java-Interview)
+- [advanced-java](https://github.com/doocs/advanced-java)
 
 
 ## 书籍
