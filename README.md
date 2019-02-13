@@ -258,6 +258,7 @@
     - [极速开发微商城,分销商城的微服务分布式框架，前后端分离] (https://github.com/yjjdick/sdb-mall)
     - [goodsKill 秒杀] (https://github.com/techa03/goodsKill)
     - [Liudao 风控] (https://github.com/ysrc/Liudao)
+    - [mall] (https://github.com/macrozheng/mall)
 
 - 内容管理
 
