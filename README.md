@@ -60,12 +60,13 @@
     - [spring-cloud-practice] (https://github.com/charlesvhe/spring-cloud-practice)
     - [easy-cloud] (https://github.com/dqeasycloud/easy-cloud)
     
-- 分布式事物
+- 分布式事务
     
     - [happylifeplat-transaction] (https://github.com/yu199195/happylifeplat-transaction)
     - [tx-lcn] (https://github.com/codingapi/tx-lcn)
     - [ByteTCC] (https://github.com/liuyangming/ByteTCC)
-    
+    - [seata 蚂蚁金服] (https://github.com/seata/seata)
+   
 - restful
     
     - [RESTful API 设计参考文献列表] (https://github.com/aisuhua/restful-api-design-references) 
