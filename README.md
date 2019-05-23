@@ -485,6 +485,8 @@
 - [谷歌上网助手](http://googlehelper.net/)
 - [cron 表达式生成器](http://cron.qqe2.com/)
 - [classpy 字节码分析工具](https://github.com/zxh0/classpy)
+- [navicat-keygen](https://github.com/DoubleLabyrinth/navicat-keygen)
+
 
 
 ## 测试
