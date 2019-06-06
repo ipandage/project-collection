@@ -260,6 +260,9 @@
     - [goodsKill 秒杀] (https://github.com/techa03/goodsKill)
     - [Liudao 风控] (https://github.com/ysrc/Liudao)
     - [mall] (https://github.com/macrozheng/mall)
+    - [zscat_sw] (https://gitee.com/catshen/zscat_sw)
+    - [onemall] (https://gitee.com/zhijiantianya/onemall)
+    
 
 - 内容管理
 
