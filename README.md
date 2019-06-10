@@ -419,6 +419,7 @@
 - 微信公账号
 
     - [jquery-weui] (https://github.com/lihongxun945/jquery-weui)
+    - [SmartWx] (https://gitee.com/qingfengtaizi/wxmp)
 
 
 ## 工具
