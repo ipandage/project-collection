@@ -76,6 +76,9 @@
     
     - [spring cloud + vue + oAuth2.0全家桶实战] (https://github.com/paascloud/paascloud-master) 
  
+- 脚手架
+    
+    - [vole] (https://github.com/gavenwangcn/vole) 
 
 ## java
 
