@@ -494,6 +494,7 @@
 - [cron 表达式生成器](http://cron.qqe2.com/)
 - [classpy 字节码分析工具](https://github.com/zxh0/classpy)
 - [navicat-keygen](https://github.com/DoubleLabyrinth/navicat-keygen)
+- [iterm2-zmodem rz sz](https://github.com/luxihk/iterm2-zmodem)
 
 
 
