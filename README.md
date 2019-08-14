@@ -19,6 +19,7 @@
 - [technology-talk](https://github.com/aalansehaiyang/technology-talk)
 - [Java-Interview](https://github.com/crossoverJie/Java-Interview)
 - [advanced-java](https://github.com/doocs/advanced-java)
+- [awesome-architecture](https://github.com/toutiaoio/awesome-architecture)
 
 
 ## 书籍
