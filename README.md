@@ -138,8 +138,8 @@
     - [bootdo] (https://gitee.com/lcg0124/bootdo) 
     - [jeefast] (https://gitee.com/theodo/jeefast) 
     - [Guns] (https://github.com/stylefeng/Guns) 
-    
-      
+    - [FEBS-Vue] (https://github.com/wuyouzhuguli/FEBS-Vue) 
+     
      
 - 序列化
 
