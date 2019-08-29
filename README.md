@@ -139,6 +139,7 @@
     - [jeefast] (https://gitee.com/theodo/jeefast) 
     - [Guns] (https://github.com/stylefeng/Guns) 
     - [FEBS-Vue] (https://github.com/wuyouzhuguli/FEBS-Vue) 
+    - [renren-security 前后端分离带权限](https://gitee.com/renrenio/renren-security) 
      
      
 - 序列化
