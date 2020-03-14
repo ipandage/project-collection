@@ -51,6 +51,8 @@
     - [Linux工具快速教程] (https://github.com/me115/linuxtools_rst)
     - [Linux-Tutorial(Java 程序员眼中的 Linux)] (https://github.com/judasn/Linux-Tutorial)
     - [linux-command(linux命令大全)] (https://github.com/jaywcjlove/linux-command)
+    - [use_vim_as_ide] (https://github.com/yangyangwithgnu/use_vim_as_ide)
+    
 
 ## 微服务
 
